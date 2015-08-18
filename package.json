@@ -1,0 +1,21 @@
+{
+  "name": "leaderboard",
+  "version": "0.0.0",
+  "description": "leaderboard module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/viktorstaikov/leaderboard.git"
+  },
+  "author": "Viktor Staykov <viktor.staikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktorstaikov/leaderboard/issues"
+  },
+  "dependencies": {
+    "collections": "~1.2.3"
+  }
+}

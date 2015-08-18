@@ -1,0 +1,4001 @@
+module.exports = [{
+    "rating": 17.8111,
+    "points": 0,
+    "playerId": "2003ce39-7b03-49cb-83a1-1ebff7414b21"
+}, {
+    "rating": 35.3372,
+    "points": 0,
+    "playerId": "524d7d27-1723-41b4-96c4-c5c712764bbc"
+}, {
+    "rating": 17.6427,
+    "points": 0,
+    "playerId": "0f20e77c-52a4-4778-9b42-ea0dcccfc230"
+}, {
+    "rating": 31.3197,
+    "points": 0,
+    "playerId": "5e7b1c57-3238-4b16-93f4-c11b6b4f3726"
+}, {
+    "rating": 27.6679,
+    "points": 0,
+    "playerId": "2a4dfa42-ab0d-415e-9f29-7a13fc08a743"
+}, {
+    "rating": 36.1806,
+    "points": 0,
+    "playerId": "3c0e9156-6bee-4d35-952b-b06ac3a473e4"
+}, {
+    "rating": 26.4797,
+    "points": 0,
+    "playerId": "e3c515a2-3f18-4f41-a5e3-8f7286ddd87a"
+}, {
+    "rating": 25.1765,
+    "points": 0,
+    "playerId": "2ffb0c50-da37-4bcf-a5a2-980ca16f7bd8"
+}, {
+    "rating": 20.1689,
+    "points": 0,
+    "playerId": "044573ee-1a49-4aa6-aded-93a528c7f675"
+}, {
+    "rating": 34.3905,
+    "points": 0,
+    "playerId": "d10facc2-93de-40d1-b013-5e0088962764"
+}, {
+    "rating": 37.3811,
+    "points": 0,
+    "playerId": "1b81b50e-cefb-4053-8b07-d6e94caf0d2f"
+}, {
+    "rating": 25.6527,
+    "points": 0,
+    "playerId": "0761711c-012f-4edd-9c92-375066299f70"
+}, {
+    "rating": 34.345,
+    "points": 0,
+    "playerId": "dab067d2-14df-4a2c-8866-0687c89693d5"
+}, {
+    "rating": 18.5679,
+    "points": 0,
+    "playerId": "9a398122-ea21-420c-85a5-daef1471d949"
+}, {
+    "rating": 34.6333,
+    "points": 0,
+    "playerId": "3c758f14-9125-436d-aeaf-e8bf100b6e7f"
+}, {
+    "rating": 32.4168,
+    "points": 0,
+    "playerId": "f8b5d46d-22a4-419c-9309-f481f1efa86c"
+}, {
+    "rating": 18.8561,
+    "points": 0,
+    "playerId": "68706261-1ee2-4979-8d9d-a9bcf908dee1"
+}, {
+    "rating": 26.3483,
+    "points": 0,
+    "playerId": "3d1cfe1b-a663-438d-ba0e-6078eb6cd378"
+}, {
+    "rating": 25.4747,
+    "points": 0,
+    "playerId": "8fddc0f3-baf2-4448-b575-428c1eb41923"
+}, {
+    "rating": 15.5693,
+    "points": 0,
+    "playerId": "35e1d877-c8ef-4804-80e5-303253dbb615"
+}, {
+    "rating": 35.3855,
+    "points": 0,
+    "playerId": "d1759d6f-433c-4725-9123-fb9376df93fc"
+}, {
+    "rating": 21.6471,
+    "points": 0,
+    "playerId": "b6f823b4-3d81-438a-a1f4-eff5c54609e0"
+}, {
+    "rating": 28.8727,
+    "points": 0,
+    "playerId": "5ec61136-0439-4d0e-b93a-c23393ea9ed4"
+}, {
+    "rating": 19.5432,
+    "points": 0,
+    "playerId": "e70de39f-01ca-4cdc-83c8-862350e4e740"
+}, {
+    "rating": 20.6106,
+    "points": 0,
+    "playerId": "e3a54a49-47e2-4110-9403-a03e794a4e64"
+}, {
+    "rating": 10.1083,
+    "points": 0,
+    "playerId": "88c06936-e2af-43b3-8bc4-aa248c912ce9"
+}, {
+    "rating": 36.3063,
+    "points": 0,
+    "playerId": "79919df7-0717-4cbb-b9ec-e8e0f61605cb"
+}, {
+    "rating": 5.5605,
+    "points": 0,
+    "playerId": "014d38a8-57e0-4d88-bef1-2845fea994df"
+}, {
+    "rating": 17.0137,
+    "points": 0,
+    "playerId": "6ec9dfe7-9663-4c27-90f1-e592d8047bc7"
+}, {
+    "rating": 15.2118,
+    "points": 0,
+    "playerId": "41809876-bf76-42a9-b1da-fca78c63f069"
+}, {
+    "rating": 14.8672,
+    "points": 0,
+    "playerId": "60ccd20f-5b02-4451-9bc1-4eb33c1e4d3a"
+}, {
+    "rating": 34.679,
+    "points": 0,
+    "playerId": "0a4e7577-fd93-4d23-8a90-9cc352b06a34"
+}, {
+    "rating": 24.2336,
+    "points": 0,
+    "playerId": "957c11ba-ff59-431b-94fe-8e3f20d245c2"
+}, {
+    "rating": 19.1188,
+    "points": 0,
+    "playerId": "a156a6cd-5a54-44b3-887d-59274da9b2f5"
+}, {
+    "rating": 9.3115,
+    "points": 0,
+    "playerId": "ab37dcf8-1d5c-4165-8488-f959ba39df67"
+}, {
+    "rating": 22.5407,
+    "points": 0,
+    "playerId": "1db08038-049c-4c6c-9724-0b5c4920e159"
+}, {
+    "rating": 19.7694,
+    "points": 0,
+    "playerId": "20d13a29-85d6-4a60-899e-51cbe225f234"
+}, {
+    "rating": 36.1022,
+    "points": 0,
+    "playerId": "fac1f9bd-532b-4fd9-aeb0-5c39f7de2471"
+}, {
+    "rating": 18.8471,
+    "points": 0,
+    "playerId": "94c7d6de-82a3-42cb-b39d-703ea319685c"
+}, {
+    "rating": 3.6511,
+    "points": 0,
+    "playerId": "20295d7f-ee34-4fca-b8f5-9a4644ed0efc"
+}, {
+    "rating": 16.1016,
+    "points": 0,
+    "playerId": "1f426cf2-6b5a-4b62-925e-9c9903849ee2"
+}, {
+    "rating": 24.1711,
+    "points": 0,
+    "playerId": "82207820-157f-4905-9da1-4871865cd994"
+}, {
+    "rating": 18.6899,
+    "points": 0,
+    "playerId": "15231e60-1dbd-4cfb-93a2-e9ff0d5e075d"
+}, {
+    "rating": 19.1734,
+    "points": 0,
+    "playerId": "059ceae8-b8e6-4574-9434-521feb63a9b4"
+}, {
+    "rating": 27.535,
+    "points": 0,
+    "playerId": "3abcd4d3-53c4-411d-b2b8-47b5408f4432"
+}, {
+    "rating": 33.8512,
+    "points": 0,
+    "playerId": "64dc872e-1ecd-4a6d-9c87-cc25635c5779"
+}, {
+    "rating": 33.7594,
+    "points": 0,
+    "playerId": "43193288-acfc-4096-b0ea-b99e1f6b5fc0"
+}, {
+    "rating": 31.4893,
+    "points": 0,
+    "playerId": "4bfceabd-a1cc-4a64-b7f7-65320f074380"
+}, {
+    "rating": 14.1729,
+    "points": 0,
+    "playerId": "5d7b2577-c391-447e-a731-a3ff9e4f2964"
+}, {
+    "rating": 21.9186,
+    "points": 0,
+    "playerId": "1ca00a29-9a9a-4640-9a8d-cdd1cc35fb3b"
+}, {
+    "rating": 21.4484,
+    "points": 0,
+    "playerId": "3baf2b9a-f2f5-431d-948d-978bc0b02b74"
+}, {
+    "rating": 26.2843,
+    "points": 0,
+    "playerId": "1e7145aa-16de-4400-82b4-29beeea8533d"
+}, {
+    "rating": 35.042,
+    "points": 0,
+    "playerId": "0346f03d-886a-4f41-9da4-f878caec4577"
+}, {
+    "rating": 20.0652,
+    "points": 0,
+    "playerId": "1396bde7-a391-4d58-8dd0-4dc011c75264"
+}, {
+    "rating": 39.9716,
+    "points": 0,
+    "playerId": "b448b88c-f4ce-4803-8c56-7d540ec3d0c4"
+}, {
+    "rating": 20.2287,
+    "points": 0,
+    "playerId": "1ad99c2c-7e65-4ce3-9f89-e8a83c44d883"
+}, {
+    "rating": 19.0592,
+    "points": 0,
+    "playerId": "48149aac-58e2-4025-8539-28e4e7ad3433"
+}, {
+    "rating": 20.9698,
+    "points": 0,
+    "playerId": "2ff1c4c2-825a-4b1b-9d77-40e6c8176414"
+}, {
+    "rating": 37.927,
+    "points": 0,
+    "playerId": "2d3c6cd6-33cc-4394-8562-7a1f42f11ce1"
+}, {
+    "rating": 36.724,
+    "points": 0,
+    "playerId": "272cf04a-0127-441c-8270-46b3b0787498"
+}, {
+    "rating": 26.0647,
+    "points": 0,
+    "playerId": "56cbff0b-d6c2-42b6-aeba-a7278f425a31"
+}, {
+    "rating": 22.2385,
+    "points": 0,
+    "playerId": "108de8a2-0329-4817-949a-69877b98bde5"
+}, {
+    "rating": 3.5091,
+    "points": 0,
+    "playerId": "66b60e24-1f26-4091-9c9f-9ce8155652f6"
+}, {
+    "rating": 29.4197,
+    "points": 0,
+    "playerId": "840d136a-add8-4602-9b64-a4878476b759"
+}, {
+    "rating": 26.1638,
+    "points": 0,
+    "playerId": "7a97083c-588a-43b7-af16-e218ae59c5dd"
+}, {
+    "rating": 20.9729,
+    "points": 0,
+    "playerId": "9735ce4e-efd8-4afc-94e1-be78536c659b"
+}, {
+    "rating": 26.3928,
+    "points": 0,
+    "playerId": "651d903b-87e5-43ff-bb40-e9443e0c63a3"
+}, {
+    "rating": 20.3833,
+    "points": 0,
+    "playerId": "f3f8aac6-94a6-4391-8849-afa7b644a1e8"
+}, {
+    "rating": 15.7653,
+    "points": 0,
+    "playerId": "cb9d215d-9b19-4306-b2bf-bcd39f3d2910"
+}, {
+    "rating": 29.1623,
+    "points": 0,
+    "playerId": "0b6e91fe-003f-4847-b85e-47fc10df6b9c"
+}, {
+    "rating": 41.3481,
+    "points": 0,
+    "playerId": "bc8cd20f-4fa3-48e7-9a33-dc99d6b8053c"
+}, {
+    "rating": 17.6212,
+    "points": 0,
+    "playerId": "2c5f734a-2ba3-4ad0-93c7-82f969591de7"
+}, {
+    "rating": 9.1536,
+    "points": 0,
+    "playerId": "48ed823b-6a86-48bf-86ff-7165fa21f54f"
+}, {
+    "rating": 35.6539,
+    "points": 0,
+    "playerId": "71b09fd2-73d2-44fd-86fe-eecd8f9fa38d"
+}, {
+    "rating": 26.0971,
+    "points": 0,
+    "playerId": "766045bf-d5bc-4f48-aa64-65a3d3625bf4"
+}, {
+    "rating": 28.6253,
+    "points": 0,
+    "playerId": "5d8481da-ae87-4bbd-92fe-1d1b2f2bf562"
+}, {
+    "rating": 29.1421,
+    "points": 0,
+    "playerId": "faf103cb-bab7-40b5-a152-c217a2f32466"
+}, {
+    "rating": 17.5706,
+    "points": 0,
+    "playerId": "7e0ae2f7-3800-440d-bb94-1b9f26557e4d"
+}, {
+    "rating": 23.0164,
+    "points": 0,
+    "playerId": "11de2158-5c53-4de5-bbac-841742dfc7d2"
+}, {
+    "rating": 30.5641,
+    "points": 0,
+    "playerId": "8183a677-144f-428b-8946-7ce4bb7bcdd9"
+}, {
+    "rating": 28.7273,
+    "points": 0,
+    "playerId": "ef0f4ccd-1434-499c-a35f-11e06d3259ee"
+}, {
+    "rating": 17.9568,
+    "points": 0,
+    "playerId": "6c6be584-5f7c-4f88-98df-3be7ca558a40"
+}, {
+    "rating": 15.1853,
+    "points": 0,
+    "playerId": "c234621e-6a89-4d5a-adce-486e98d0f069"
+}, {
+    "rating": 7.5074,
+    "points": 0,
+    "playerId": "aa0fa7c6-5537-4dac-aba6-c8bec0ce0ea4"
+}, {
+    "rating": 17.7556,
+    "points": 0,
+    "playerId": "8f98de56-5c33-4b48-a932-5e08d78572fa"
+}, {
+    "rating": 14.8096,
+    "points": 0,
+    "playerId": "7d6999f7-b156-4ca0-b9d4-1f9714825c80"
+}, {
+    "rating": 24.1931,
+    "points": 0,
+    "playerId": "25a80f8d-45b6-4c68-8806-22e5c6360af2"
+}, {
+    "rating": 32.9013,
+    "points": 0,
+    "playerId": "01c98f24-4461-4cdc-8c86-44a6b5ab25f2"
+}, {
+    "rating": 28.3121,
+    "points": 0,
+    "playerId": "7453bd22-14c2-43eb-a1b5-8707c5d57bda"
+}, {
+    "rating": 24.6739,
+    "points": 0,
+    "playerId": "94f5ec5a-4cb0-4cd1-90c9-0a2c2f3c33c9"
+}, {
+    "rating": 13.0369,
+    "points": 0,
+    "playerId": "b67c0fb6-d744-4a91-8e9e-824594a7a69b"
+}, {
+    "rating": 25.4704,
+    "points": 0,
+    "playerId": "7f9d49eb-fcef-4ee6-91b5-88cf32c91a28"
+}, {
+    "rating": 35.7456,
+    "points": 0,
+    "playerId": "147cbaae-f573-45b7-b0b2-8f7e90389e68"
+}, {
+    "rating": 23.6685,
+    "points": 0,
+    "playerId": "b6ef6201-1486-4e46-ab32-d23606939696"
+}, {
+    "rating": 15.8304,
+    "points": 0,
+    "playerId": "6cd18bb4-8777-41ed-9154-ffcd0df550db"
+}, {
+    "rating": 24.681,
+    "points": 0,
+    "playerId": "7d57abc8-e416-462f-ba26-e2c7e4d9be12"
+}, {
+    "rating": 28.1625,
+    "points": 0,
+    "playerId": "32c04405-7cad-4937-8146-0ef4c29fedd4"
+}, {
+    "rating": 29.8953,
+    "points": 0,
+    "playerId": "2517fd0f-03a8-4d57-8e2a-80feb06203eb"
+}, {
+    "rating": 22.6854,
+    "points": 0,
+    "playerId": "09ee0ca2-7af2-4973-ade5-2ed71f566639"
+}, {
+    "rating": 27.4617,
+    "points": 0,
+    "playerId": "c1651db0-8497-40b6-88b6-f3ea85cfebfd"
+}, {
+    "rating": 25.6309,
+    "points": 0,
+    "playerId": "f4545c7b-cec9-4291-9a39-9340aa341b86"
+}, {
+    "rating": 21.4915,
+    "points": 0,
+    "playerId": "fd9330be-ba83-48e0-a3c3-4ab19a07e2d8"
+}, {
+    "rating": 21.8433,
+    "points": 0,
+    "playerId": "eb015d21-61fb-46c1-8cb5-bc21cbb6402f"
+}, {
+    "rating": 19.4611,
+    "points": 0,
+    "playerId": "861cb83f-694e-4bdd-9c09-bb924795d166"
+}, {
+    "rating": 25.8318,
+    "points": 0,
+    "playerId": "61af926d-eb75-48b2-8bff-1abcf6277a76"
+}, {
+    "rating": 27.5505,
+    "points": 0,
+    "playerId": "fff2b8d0-aa27-46a9-ab38-7661bca9b865"
+}, {
+    "rating": 21.9438,
+    "points": 0,
+    "playerId": "d8f6fa79-13d0-467b-aa4e-b7dd8670b075"
+}, {
+    "rating": 38.4744,
+    "points": 0,
+    "playerId": "c79ca718-1966-46a0-abd9-6d37d62a46f4"
+}, {
+    "rating": 29.5975,
+    "points": 0,
+    "playerId": "86488b23-2444-4c15-969e-7b25ab1a7eba"
+}, {
+    "rating": 22.812,
+    "points": 0,
+    "playerId": "0a462d5a-ffcc-4001-a8b2-76e11df78487"
+}, {
+    "rating": 28.0427,
+    "points": 0,
+    "playerId": "1849b08c-4d79-4c55-a70e-b47e005e58c3"
+}, {
+    "rating": 18.4912,
+    "points": 0,
+    "playerId": "bf6872df-4ddc-4a6c-a047-478c855f2133"
+}, {
+    "rating": 17.8346,
+    "points": 0,
+    "playerId": "a48146de-ad2c-4dff-905a-0e53f8016918"
+}, {
+    "rating": 30.1154,
+    "points": 0,
+    "playerId": "94d34965-8624-4c24-b1ab-a7776986303a"
+}, {
+    "rating": 47.3885,
+    "points": 0,
+    "playerId": "3d449f92-061f-4963-888f-63b7e19fa556"
+}, {
+    "rating": 25.3677,
+    "points": 0,
+    "playerId": "cbc498cd-01cd-4f29-a75c-a5e4d67c3309"
+}, {
+    "rating": 18.9168,
+    "points": 0,
+    "playerId": "b06a001b-1853-4d92-b6af-62e521da54c6"
+}, {
+    "rating": 31.1267,
+    "points": 0,
+    "playerId": "07e49c5b-3879-4ec6-98e1-9ea8deafe95d"
+}, {
+    "rating": 19.9288,
+    "points": 0,
+    "playerId": "96bbe8fa-3017-416b-a136-60814389b3cd"
+}, {
+    "rating": 16.5367,
+    "points": 0,
+    "playerId": "ed98e73f-a00e-4a4e-bc49-e9b79745c3b3"
+}, {
+    "rating": 29.0824,
+    "points": 0,
+    "playerId": "5ab38374-16df-4ffb-9c48-1cd76bdad832"
+}, {
+    "rating": 22.2613,
+    "points": 0,
+    "playerId": "1d7c6dcc-e1c2-4f6b-a49b-e25bb2d2dbad"
+}, {
+    "rating": 23.532,
+    "points": 0,
+    "playerId": "1bfcf8cd-a3c2-4328-8d00-4639d8698da2"
+}, {
+    "rating": 36.3443,
+    "points": 0,
+    "playerId": "6e44fea8-c252-427f-a1c8-9b50c0d2b840"
+}, {
+    "rating": 39.9352,
+    "points": 0,
+    "playerId": "a9555336-d90c-4ed2-9206-788ae13b2f9a"
+}, {
+    "rating": 29.859,
+    "points": 0,
+    "playerId": "03d882ac-b162-4770-beb5-ac1cff5e9ed1"
+}, {
+    "rating": 19.6023,
+    "points": 0,
+    "playerId": "9d593b75-5b0d-4f21-8c8d-b86673d780f9"
+}, {
+    "rating": 10.9818,
+    "points": 0,
+    "playerId": "1ec7ac88-56a1-4872-9157-21623d4c9234"
+}, {
+    "rating": 32.7804,
+    "points": 0,
+    "playerId": "c7d3b54b-334c-423e-92b4-5513b20b3584"
+}, {
+    "rating": 31.4427,
+    "points": 0,
+    "playerId": "ecdfb2e2-450d-4bde-8d12-a32d33eee06f"
+}, {
+    "rating": 32.331,
+    "points": 0,
+    "playerId": "4ee111ad-c426-4e49-aa8b-a584b2957f1e"
+}, {
+    "rating": 18.5253,
+    "points": 0,
+    "playerId": "dd3d9ede-09de-4ecf-92c5-c126adc5029d"
+}, {
+    "rating": 31.7673,
+    "points": 0,
+    "playerId": "e40e98f6-dcea-4db4-b8c9-592136c79842"
+}, {
+    "rating": 24.4926,
+    "points": 0,
+    "playerId": "feeefc0c-605c-4aac-b6aa-f0f3211e9ef5"
+}, {
+    "rating": 24.9203,
+    "points": 0,
+    "playerId": "3a974a8e-7e90-4287-8969-0e1121d1ca88"
+}, {
+    "rating": 32.229,
+    "points": 0,
+    "playerId": "05e5c6a7-90ba-4d09-b34a-2c2c9fd42b9f"
+}, {
+    "rating": 21.1364,
+    "points": 0,
+    "playerId": "6ab3bf0a-5279-4fe0-a2c2-06a1028e4774"
+}, {
+    "rating": 20.3957,
+    "points": 0,
+    "playerId": "4a71b1ae-7da2-41c5-9d48-d346f1a1804a"
+}, {
+    "rating": 18.5191,
+    "points": 0,
+    "playerId": "3e19ad71-5050-4fdd-a865-4397e33e156f"
+}, {
+    "rating": 41.4985,
+    "points": 0,
+    "playerId": "cf03c8cc-0bfe-48c4-aa9b-7c99a88d9e5f"
+}, {
+    "rating": 26.388,
+    "points": 0,
+    "playerId": "a4521e96-8a32-48bd-99f0-477aaf9dc318"
+}, {
+    "rating": 32.2032,
+    "points": 0,
+    "playerId": "4cc156b3-e916-4ca2-895a-4b06e0fc4654"
+}, {
+    "rating": 16.525,
+    "points": 0,
+    "playerId": "f46017b8-605b-4489-8d2e-6e2832f4eb00"
+}, {
+    "rating": 29.7574,
+    "points": 0,
+    "playerId": "6f1dc0cd-ca69-45e2-b342-09c9bc0f80b9"
+}, {
+    "rating": 17.6708,
+    "points": 0,
+    "playerId": "e9b80069-89f4-4059-8648-2c5c210e4708"
+}, {
+    "rating": 37.2413,
+    "points": 0,
+    "playerId": "d0ddc35d-266f-4533-9e1c-c90e4b8c03ad"
+}, {
+    "rating": 32.689,
+    "points": 0,
+    "playerId": "c654cf60-2319-4c5b-9066-19314daf3403"
+}, {
+    "rating": 34.6341,
+    "points": 0,
+    "playerId": "10a776f4-a5e8-41b6-8c31-691d7c3e7aaa"
+}, {
+    "rating": 29.6582,
+    "points": 0,
+    "playerId": "62295bd4-ca00-4405-9ce9-9d1ae5730770"
+}, {
+    "rating": 23.0356,
+    "points": 0,
+    "playerId": "be0be717-5be2-44a9-8a61-6c20a372f64f"
+}, {
+    "rating": 31.3944,
+    "points": 0,
+    "playerId": "c3280fda-86d1-42e8-84c0-f0fb47ec46d2"
+}, {
+    "rating": 31.2607,
+    "points": 0,
+    "playerId": "96cac014-cc34-41e4-8eaf-aa3f9db7aa95"
+}, {
+    "rating": 12.6244,
+    "points": 0,
+    "playerId": "8c0d8387-b365-4cd8-94e3-8812d04e83cc"
+}, {
+    "rating": 33.4262,
+    "points": 0,
+    "playerId": "ae0d6c4f-80ce-4af2-9b42-307c02fb2adb"
+}, {
+    "rating": 19.997,
+    "points": 0,
+    "playerId": "26b160e0-8dbc-4ce4-9f10-3fc6acdbcacc"
+}, {
+    "rating": 35.2151,
+    "points": 0,
+    "playerId": "44b877f2-9f72-4517-930c-4e02e3ba147b"
+}, {
+    "rating": 37.7861,
+    "points": 0,
+    "playerId": "c85d43d4-90c3-40da-86eb-8067be7622b0"
+}, {
+    "rating": 23.2345,
+    "points": 0,
+    "playerId": "88eb329b-5ef3-444a-b604-ba90c2561541"
+}, {
+    "rating": 24.0405,
+    "points": 0,
+    "playerId": "d487c334-bcb0-4879-ada3-18f91038d374"
+}, {
+    "rating": 4.4431,
+    "points": 0,
+    "playerId": "c251bd67-d6ea-435f-a2ac-97a23aded11a"
+}, {
+    "rating": 14.0586,
+    "points": 0,
+    "playerId": "80d3ce37-7deb-440e-9058-13de578af5e4"
+}, {
+    "rating": 29.672,
+    "points": 0,
+    "playerId": "5625172b-7002-4409-bd79-1aeaa8ce4ccf"
+}, {
+    "rating": 11.5957,
+    "points": 0,
+    "playerId": "faa2ae0d-dcce-4280-af05-af67c7b1c033"
+}, {
+    "rating": 17.1179,
+    "points": 0,
+    "playerId": "4e0c7886-4a3d-45ea-b712-fe74a23e332d"
+}, {
+    "rating": 29.8863,
+    "points": 0,
+    "playerId": "437afbcd-9810-4f81-b165-feefafbd28b7"
+}, {
+    "rating": 24.9991,
+    "points": 0,
+    "playerId": "df288183-a15f-4d35-bab6-cd5cf4255461"
+}, {
+    "rating": 19.9511,
+    "points": 0,
+    "playerId": "6b026aa1-aad8-4b1e-91b2-28447971e002"
+}, {
+    "rating": 31.7818,
+    "points": 0,
+    "playerId": "dd5c4391-29ee-4d30-aa1b-950fa2995834"
+}, {
+    "rating": 29.9332,
+    "points": 0,
+    "playerId": "5ff4b8ca-6584-4a1d-83e7-e07828ebf5ae"
+}, {
+    "rating": 20.7418,
+    "points": 0,
+    "playerId": "a7e645c5-944f-41bc-bb2e-a8807c346e5d"
+}, {
+    "rating": 24.1938,
+    "points": 0,
+    "playerId": "9657af15-1563-451e-9976-db7a4e7e6247"
+}, {
+    "rating": 24.2571,
+    "points": 0,
+    "playerId": "b12f66f1-1bfa-4231-ac83-94b38375daeb"
+}, {
+    "rating": 27.1587,
+    "points": 0,
+    "playerId": "8fc69c18-fe4a-4179-a5b7-0410c48fe7c3"
+}, {
+    "rating": 16.2909,
+    "points": 0,
+    "playerId": "67d38415-c750-4cb2-81e5-392113feabfa"
+}, {
+    "rating": 15.2722,
+    "points": 0,
+    "playerId": "6d9e44bb-878b-4d59-b27e-07708399477e"
+}, {
+    "rating": 21.2964,
+    "points": 0,
+    "playerId": "e0885dc7-1124-4b75-ab2f-0e7dc8d24de7"
+}, {
+    "rating": 22.474,
+    "points": 0,
+    "playerId": "58ee859a-48f4-45c6-a519-81c881e1922c"
+}, {
+    "rating": 37.768,
+    "points": 0,
+    "playerId": "2e159324-b5b5-48f4-a0cf-b3cf4d7a80bc"
+}, {
+    "rating": 41.3209,
+    "points": 0,
+    "playerId": "8a9b45cb-889d-4c30-8f6a-176896771352"
+}, {
+    "rating": 31.0002,
+    "points": 0,
+    "playerId": "c7460335-ef52-4544-971a-1befbb88fc67"
+}, {
+    "rating": 34.9631,
+    "points": 0,
+    "playerId": "908497d8-bf75-4087-8a90-a3f5c44f205a"
+}, {
+    "rating": 21.2977,
+    "points": 0,
+    "playerId": "81067ad5-bf98-43c2-9ee8-8f3bec701080"
+}, {
+    "rating": 10.3495,
+    "points": 0,
+    "playerId": "e7c10425-599f-4a41-91f6-dac911bc1617"
+}, {
+    "rating": 25.3601,
+    "points": 0,
+    "playerId": "f85c6b0d-097c-4331-8588-b6a0c64aa496"
+}, {
+    "rating": 18.335,
+    "points": 0,
+    "playerId": "7a5b26e4-476c-43c0-98a5-a6558f9b766d"
+}, {
+    "rating": 17.4864,
+    "points": 0,
+    "playerId": "a3d93499-2fcf-4e89-83c9-833ee4e6b35c"
+}, {
+    "rating": 25.3496,
+    "points": 0,
+    "playerId": "fcfd4de5-a480-4145-be9a-ebe44e82b62f"
+}, {
+    "rating": 33.8639,
+    "points": 0,
+    "playerId": "8267f193-cf3e-4e06-aeff-74c084d53897"
+}, {
+    "rating": 8.9337,
+    "points": 0,
+    "playerId": "8d171d3c-a6cf-48bc-ba96-c7031c049017"
+}, {
+    "rating": 13.1844,
+    "points": 0,
+    "playerId": "ac01e908-b723-47b7-9928-3567a9e7bb19"
+}, {
+    "rating": 38.7207,
+    "points": 0,
+    "playerId": "9d9905b0-c8e9-4ee1-88a8-38f7e3808a5b"
+}, {
+    "rating": 28.117,
+    "points": 0,
+    "playerId": "5c5d8c5a-366c-455b-9d69-0b9c919d976a"
+}, {
+    "rating": 22.296,
+    "points": 0,
+    "playerId": "589b6bb3-19e7-4c42-a8be-3f500b4ac006"
+}, {
+    "rating": 20.5816,
+    "points": 0,
+    "playerId": "4ad4c58a-3ebe-4ee8-aa98-595a7394e936"
+}, {
+    "rating": 24.7937,
+    "points": 0,
+    "playerId": "b16b442a-8d6a-48c3-b1a9-a4611a4afe9f"
+}, {
+    "rating": 3.1667,
+    "points": 0,
+    "playerId": "854362f2-e5eb-4607-a32b-f40d18377d60"
+}, {
+    "rating": 22.1127,
+    "points": 0,
+    "playerId": "8e747482-cf78-49d1-8911-d8c46e3a87d2"
+}, {
+    "rating": 25.387,
+    "points": 0,
+    "playerId": "a97d9658-15bd-40d0-a1b6-f76e6acbe60b"
+}, {
+    "rating": 13.939,
+    "points": 0,
+    "playerId": "7415ae8c-0de1-466a-ab3d-45c251fc17e7"
+}, {
+    "rating": 14.3889,
+    "points": 0,
+    "playerId": "1169ad79-df0c-4bca-adc4-fea799f7e0ec"
+}, {
+    "rating": 31.9047,
+    "points": 0,
+    "playerId": "28bc0308-279f-4ed1-a87b-40f591e213b8"
+}, {
+    "rating": 27.394,
+    "points": 0,
+    "playerId": "71f391aa-7b77-475c-b0ca-aee46a7267ec"
+}, {
+    "rating": 28.8649,
+    "points": 0,
+    "playerId": "11c6dc56-501b-45bb-89bc-48bb39fd05a4"
+}, {
+    "rating": 19.481,
+    "points": 0,
+    "playerId": "fe264428-be35-44be-8e14-69652c8a24dd"
+}, {
+    "rating": 26.9022,
+    "points": 0,
+    "playerId": "8ac67735-0968-4158-a1fc-33aff8de47fb"
+}, {
+    "rating": 22.753,
+    "points": 0,
+    "playerId": "492a98ce-229a-4a8b-a24b-5255d958a5dd"
+}, {
+    "rating": 40.4657,
+    "points": 0,
+    "playerId": "f4610ceb-50f3-4b4b-a6ee-fa6d1e54e096"
+}, {
+    "rating": 25.1023,
+    "points": 0,
+    "playerId": "1587d077-6bcc-4099-a671-80a429fec68d"
+}, {
+    "rating": 26.6741,
+    "points": 0,
+    "playerId": "684df5af-6e8d-4575-a492-ab3641c16777"
+}, {
+    "rating": 28.9763,
+    "points": 0,
+    "playerId": "355e9ed7-dff9-4619-b09f-3881fb7132f2"
+}, {
+    "rating": 19.8462,
+    "points": 0,
+    "playerId": "de6e19f6-db31-4605-a677-ac652a30ce7b"
+}, {
+    "rating": 37.1119,
+    "points": 0,
+    "playerId": "abf6d03e-8d8d-4ad6-8724-c16857c37c31"
+}, {
+    "rating": 30.3831,
+    "points": 0,
+    "playerId": "eed02fc2-2adf-4b85-b969-2b832619406f"
+}, {
+    "rating": 31.8361,
+    "points": 0,
+    "playerId": "05f9d500-2e04-45bb-b1a6-1d54a914048b"
+}, {
+    "rating": 31.4845,
+    "points": 0,
+    "playerId": "158d3678-39ff-4b62-b4d9-526071485c8d"
+}, {
+    "rating": 29.0991,
+    "points": 0,
+    "playerId": "b6d13b67-97b8-44d2-a88f-f0f1204ca868"
+}, {
+    "rating": 33.0998,
+    "points": 0,
+    "playerId": "073b3e8e-51fd-4000-9072-4f8c3df5c6dc"
+}, {
+    "rating": 26.1486,
+    "points": 0,
+    "playerId": "bbd8365f-0987-416e-841d-e536c27ab738"
+}, {
+    "rating": 25.0326,
+    "points": 0,
+    "playerId": "ba1dcf74-be17-4971-9cc5-6e7301fdc936"
+}, {
+    "rating": 26.2231,
+    "points": 0,
+    "playerId": "e433094d-397e-46fe-a174-368c0792768b"
+}, {
+    "rating": 37.2237,
+    "points": 0,
+    "playerId": "7b47dc18-3119-4a23-8efe-67e541d1b9e4"
+}, {
+    "rating": 15.4085,
+    "points": 0,
+    "playerId": "11e9b325-e3e2-4a86-9c69-8d81dbd276d4"
+}, {
+    "rating": 24.2292,
+    "points": 0,
+    "playerId": "597b8785-3387-40ef-a9fd-19b02417e672"
+}, {
+    "rating": 35.0972,
+    "points": 0,
+    "playerId": "1a80927d-761a-494d-8232-e67836616d9a"
+}, {
+    "rating": 26.3395,
+    "points": 0,
+    "playerId": "b917d799-df05-42c0-837e-6b5d216979bd"
+}, {
+    "rating": 18.365,
+    "points": 0,
+    "playerId": "078ef8bd-180e-4cb4-816a-469d747a593b"
+}, {
+    "rating": 34.5815,
+    "points": 0,
+    "playerId": "d43ab0d0-e346-4a22-9cfc-fc8b77fd2d06"
+}, {
+    "rating": 18.9574,
+    "points": 0,
+    "playerId": "cb084477-affe-406a-99b7-f178e4b6ba11"
+}, {
+    "rating": 12.0306,
+    "points": 0,
+    "playerId": "dedc21e5-31ce-49e7-b601-3ef0c7a84528"
+}, {
+    "rating": 31.043,
+    "points": 0,
+    "playerId": "28214600-56b4-4563-ac03-bc2aac1e1026"
+}, {
+    "rating": 30.5393,
+    "points": 0,
+    "playerId": "aaab44d2-8e73-4477-a983-ae3229c1675e"
+}, {
+    "rating": 6.2314,
+    "points": 0,
+    "playerId": "59860418-e29d-499d-a660-d5271dad3fb2"
+}, {
+    "rating": 33.0346,
+    "points": 0,
+    "playerId": "67d834be-82e6-41f9-927d-099552101e2e"
+}, {
+    "rating": 20.8539,
+    "points": 0,
+    "playerId": "0aa1aa2d-e44f-4722-acca-bb35626dc2db"
+}, {
+    "rating": 31.4721,
+    "points": 0,
+    "playerId": "f38c2635-bda5-4a37-ae1a-42af8b13a046"
+}, {
+    "rating": 27.0006,
+    "points": 0,
+    "playerId": "2693797d-2816-40b2-b232-7c827c3180cc"
+}, {
+    "rating": 48.0166,
+    "points": 0,
+    "playerId": "f82f8c02-feb0-4a9c-bbd8-2ccc211bdf66"
+}, {
+    "rating": 34.7697,
+    "points": 0,
+    "playerId": "07510ddf-5551-4178-a953-87690c062f1e"
+}, {
+    "rating": 43.4717,
+    "points": 0,
+    "playerId": "52187ffd-724b-4676-91c4-e36b19eff0e5"
+}, {
+    "rating": 25.2884,
+    "points": 0,
+    "playerId": "ccfbe55d-f0c4-4dff-8c7d-f112de9ededd"
+}, {
+    "rating": 26.3812,
+    "points": 0,
+    "playerId": "f48d7bb0-c376-4361-8f5b-eb65050c638f"
+}, {
+    "rating": 16.9864,
+    "points": 0,
+    "playerId": "06060edc-b04e-478e-95f3-d05eb9b3860c"
+}, {
+    "rating": 36.7013,
+    "points": 0,
+    "playerId": "992a325d-2d36-430b-9d99-39114b4bf45f"
+}, {
+    "rating": 24.6195,
+    "points": 0,
+    "playerId": "15accd49-0891-49f6-9c5f-a126fa7c8e32"
+}, {
+    "rating": 16.8445,
+    "points": 0,
+    "playerId": "9712acfb-efe6-4031-8b6d-579a353611b6"
+}, {
+    "rating": 9.9367,
+    "points": 0,
+    "playerId": "d10e4e1e-54a7-49ec-bf01-dbc4d23e8981"
+}, {
+    "rating": 33.6384,
+    "points": 0,
+    "playerId": "4ef0c4ee-68d7-4441-acc3-618d2d067d06"
+}, {
+    "rating": 21.6298,
+    "points": 0,
+    "playerId": "50177873-8e6a-47ff-b073-094b03bc0b95"
+}, {
+    "rating": 40.527,
+    "points": 0,
+    "playerId": "b7172a89-ac2b-4ebc-bcd5-897643daf662"
+}, {
+    "rating": 21.0624,
+    "points": 0,
+    "playerId": "786ef559-6387-4089-88ef-deafd1dde023"
+}, {
+    "rating": 33.5542,
+    "points": 0,
+    "playerId": "572ab899-2f60-4bbb-9758-fc06069a0fa9"
+}, {
+    "rating": 33.6624,
+    "points": 0,
+    "playerId": "b566afa3-b49c-48d0-ae08-831a030a8f53"
+}, {
+    "rating": 46.283,
+    "points": 0,
+    "playerId": "8be3cf6d-5ee7-432d-9562-46e50f7e1a47"
+}, {
+    "rating": 36.8555,
+    "points": 0,
+    "playerId": "5b11037a-6cb9-4e31-86b4-595f850c121a"
+}, {
+    "rating": 15.7773,
+    "points": 0,
+    "playerId": "c8320acf-4a8f-4a75-a87e-49cb95a0e087"
+}, {
+    "rating": 34.7615,
+    "points": 0,
+    "playerId": "eef81be0-fa17-4e05-9650-a1defaab3a82"
+}, {
+    "rating": 37.3638,
+    "points": 0,
+    "playerId": "e89619f6-c370-4c1a-b500-36e9dc9b6982"
+}, {
+    "rating": 18.3578,
+    "points": 0,
+    "playerId": "3c391f00-7036-4704-b7d6-792039d670f2"
+}, {
+    "rating": 16.0735,
+    "points": 0,
+    "playerId": "4841bd20-e9ef-4c6b-b180-1483ee88506d"
+}, {
+    "rating": 12.9557,
+    "points": 0,
+    "playerId": "1dc497cf-3927-4e82-9607-3ee3ce798f1a"
+}, {
+    "rating": 39.2218,
+    "points": 0,
+    "playerId": "52d0999f-af0e-437d-a3ac-d150576ab051"
+}, {
+    "rating": 21.3533,
+    "points": 0,
+    "playerId": "4e650a39-9f6d-46d9-a30f-664ead70c34e"
+}, {
+    "rating": 19.428,
+    "points": 0,
+    "playerId": "8e1ac64f-93a5-4ffb-8cd3-94583fc9b88e"
+}, {
+    "rating": 28.453,
+    "points": 0,
+    "playerId": "ece8176a-9d46-4da0-8930-cfb0cabd51e4"
+}, {
+    "rating": 29.1348,
+    "points": 0,
+    "playerId": "347d0f8d-3fb7-4af6-b904-9b5497bc9434"
+}, {
+    "rating": 18.3881,
+    "points": 0,
+    "playerId": "04ca38b2-922d-44ba-b5ed-e03da91ee58a"
+}, {
+    "rating": 33.8748,
+    "points": 0,
+    "playerId": "cd1ccee0-5052-4863-b93d-b8ecfa892260"
+}, {
+    "rating": 17.1142,
+    "points": 0,
+    "playerId": "04fa33a2-6b9a-44cb-9e86-f3a169cb5396"
+}, {
+    "rating": 14.5852,
+    "points": 0,
+    "playerId": "287cae4d-b13d-44e3-81a2-b88e78fea766"
+}, {
+    "rating": 25.0335,
+    "points": 0,
+    "playerId": "f51da177-fa39-4384-88f5-5249ec449db6"
+}, {
+    "rating": 13.5333,
+    "points": 0,
+    "playerId": "2b4b8818-5cd0-44c7-a10c-dd94b4258070"
+}, {
+    "rating": 19.3799,
+    "points": 0,
+    "playerId": "2ded6ba2-28b6-4601-b798-1e4cc27847ad"
+}, {
+    "rating": 26.0182,
+    "points": 0,
+    "playerId": "9c0cd2c7-7fb3-40b0-b203-e23b0b5e1606"
+}, {
+    "rating": 19.3965,
+    "points": 0,
+    "playerId": "ba31a0e2-226e-4505-8195-2762a415b755"
+}, {
+    "rating": 15.1879,
+    "points": 0,
+    "playerId": "e7549590-eb19-433c-8e32-38066fdb82c0"
+}, {
+    "rating": 26.0502,
+    "points": 0,
+    "playerId": "63387663-2a39-468c-a0ea-4c0dab8c7a6c"
+}, {
+    "rating": 33.1258,
+    "points": 0,
+    "playerId": "55190afa-3592-40b2-8fda-eb2634c49659"
+}, {
+    "rating": 32.9874,
+    "points": 0,
+    "playerId": "8dd61419-3ff7-4a00-bfa1-c7de9c8c57d5"
+}, {
+    "rating": 34.7811,
+    "points": 0,
+    "playerId": "0e09a11f-ef3d-49af-a963-329d7d4d6051"
+}, {
+    "rating": 12.128,
+    "points": 0,
+    "playerId": "0d5b6fd3-ab7f-4ded-be19-5fd1a6ae82db"
+}, {
+    "rating": 32.9993,
+    "points": 0,
+    "playerId": "0cace44f-16a0-452e-9ccf-7bf1811159be"
+}, {
+    "rating": 25.2124,
+    "points": 0,
+    "playerId": "98d96bf6-622f-4aed-b51c-460d5ca5a24b"
+}, {
+    "rating": 28.0761,
+    "points": 0,
+    "playerId": "58cfa923-0af5-4587-a028-a16230e8c0f2"
+}, {
+    "rating": 29.9432,
+    "points": 0,
+    "playerId": "acab44b4-12f6-4333-b4f8-1d8b86ff7e26"
+}, {
+    "rating": 36.117,
+    "points": 0,
+    "playerId": "75da6066-1fc1-4ef5-a7a6-85ab6e1e341c"
+}, {
+    "rating": 24.3908,
+    "points": 0,
+    "playerId": "fe7fdf5b-4dd2-4b58-8d82-ceffa2ce7bca"
+}, {
+    "rating": 23.563,
+    "points": 0,
+    "playerId": "a6a31a0c-6863-4979-b546-c9c0a47c2c85"
+}, {
+    "rating": 33.1928,
+    "points": 0,
+    "playerId": "31c8bdb6-958a-4fe7-9c50-407eed9c8d42"
+}, {
+    "rating": 18.6533,
+    "points": 0,
+    "playerId": "63183104-f507-4a5e-ad62-5fed62cafe41"
+}, {
+    "rating": 18.731,
+    "points": 0,
+    "playerId": "54f44155-bb5a-4ab1-a8fc-be3d3cbfc121"
+}, {
+    "rating": 13.6623,
+    "points": 0,
+    "playerId": "8b504f09-5e5b-47ac-bbb2-6a6fcf619f69"
+}, {
+    "rating": 29.8402,
+    "points": 0,
+    "playerId": "1eaaa0a4-cb04-4f10-bae3-7116b828137d"
+}, {
+    "rating": 28.7844,
+    "points": 0,
+    "playerId": "20a9811f-d09b-4cd1-b753-f51a27e12edf"
+}, {
+    "rating": 25.0878,
+    "points": 0,
+    "playerId": "8f553f53-c49c-4b21-857f-010a4e60c753"
+}, {
+    "rating": 27.5063,
+    "points": 0,
+    "playerId": "01e197c5-d53e-491b-a145-55620729608c"
+}, {
+    "rating": 17.4034,
+    "points": 0,
+    "playerId": "9d3325c4-a81f-4571-a18a-16aa29c2785d"
+}, {
+    "rating": 28.6796,
+    "points": 0,
+    "playerId": "0ec4478f-7e26-4ef8-97aa-5db8d3eb9c1d"
+}, {
+    "rating": 42.0817,
+    "points": 0,
+    "playerId": "e3f2f580-173e-4368-a9e2-94ddf43349a4"
+}, {
+    "rating": 23.3598,
+    "points": 0,
+    "playerId": "60d7b319-d583-4224-886f-dc380fc76167"
+}, {
+    "rating": 25.7242,
+    "points": 0,
+    "playerId": "8aee8bbf-b08f-4c49-8e72-5ea037fb7a27"
+}, {
+    "rating": 13.8998,
+    "points": 0,
+    "playerId": "cfca84e4-a10a-4dfc-bf8f-561db120dc00"
+}, {
+    "rating": 31.801,
+    "points": 0,
+    "playerId": "c25ce557-3b4d-4b65-89b9-122092437125"
+}, {
+    "rating": 20.7042,
+    "points": 0,
+    "playerId": "02ed40fc-d607-47f8-95d8-3887b1c30f73"
+}, {
+    "rating": 6.2864,
+    "points": 0,
+    "playerId": "749d1fe7-8777-4a2a-b138-4df6fed18db7"
+}, {
+    "rating": 28.6157,
+    "points": 0,
+    "playerId": "42fa1e3c-2261-41dc-90b0-014039c2b2cb"
+}, {
+    "rating": 15.3316,
+    "points": 0,
+    "playerId": "523001e7-0967-4c3b-9c7e-7038ca663d15"
+}, {
+    "rating": 32.9773,
+    "points": 0,
+    "playerId": "ed0d1651-7d85-4fa1-b809-89358dcccc35"
+}, {
+    "rating": 18.249,
+    "points": 0,
+    "playerId": "9b1e0f6e-12f8-4855-bcd7-63e68babcfcf"
+}, {
+    "rating": 33.7001,
+    "points": 0,
+    "playerId": "dc9067b5-123b-438d-a95b-63ca18282795"
+}, {
+    "rating": 9.9535,
+    "points": 0,
+    "playerId": "bccb4f3e-a509-4e54-b26c-34fd8220672a"
+}, {
+    "rating": 20.8114,
+    "points": 0,
+    "playerId": "565502b4-5991-41d4-a210-630091646013"
+}, {
+    "rating": 25.7599,
+    "points": 0,
+    "playerId": "521f65ee-70bb-49f8-9af7-2f593d43b56a"
+}, {
+    "rating": 28.1761,
+    "points": 0,
+    "playerId": "216f1a9f-f69f-40e5-974f-7c6f7e0c67c5"
+}, {
+    "rating": 34.8153,
+    "points": 0,
+    "playerId": "fae8ed86-42d5-48ca-b2b2-114094ef1f42"
+}, {
+    "rating": 17.9305,
+    "points": 0,
+    "playerId": "be8313e9-cb24-4faf-bcf3-0c9ce0508d28"
+}, {
+    "rating": 28.7428,
+    "points": 0,
+    "playerId": "36408a2a-b896-4338-ba8c-31d2bbf52102"
+}, {
+    "rating": 9.2179,
+    "points": 0,
+    "playerId": "d0632d2d-09a4-4c43-a70c-f1b8153d556f"
+}, {
+    "rating": 33.959,
+    "points": 0,
+    "playerId": "3dcdceb4-251d-4f05-9075-cc4f097e6c8d"
+}, {
+    "rating": 22.9667,
+    "points": 0,
+    "playerId": "3ef46899-9d5e-4585-9397-99fdc22e6cd9"
+}, {
+    "rating": 39.7345,
+    "points": 0,
+    "playerId": "7029b2a3-1ec9-4364-8f7d-331c1cf69651"
+}, {
+    "rating": 20.5016,
+    "points": 0,
+    "playerId": "eb4dedea-7eaf-40d9-b519-dc9f2aced14b"
+}, {
+    "rating": 21.8224,
+    "points": 0,
+    "playerId": "3405d2f0-9cfc-44a9-8157-f58f4874ae4d"
+}, {
+    "rating": 19.0178,
+    "points": 0,
+    "playerId": "2ac75eca-e260-4733-a429-a386f891a120"
+}, {
+    "rating": 22.8416,
+    "points": 0,
+    "playerId": "fdf8a786-2ce0-43d7-903d-4a82138dff53"
+}, {
+    "rating": 26.0192,
+    "points": 0,
+    "playerId": "3e2f03fd-2600-4d36-9117-a33555baba3d"
+}, {
+    "rating": 16.7125,
+    "points": 0,
+    "playerId": "1a495b09-4ae3-445e-b9a2-c3597671bee3"
+}, {
+    "rating": 13.7157,
+    "points": 0,
+    "playerId": "1fada3b8-03a6-426c-8c19-1c27ad1bf4c4"
+}, {
+    "rating": 28.8349,
+    "points": 0,
+    "playerId": "54da6c9a-d08d-4710-8656-5bc30a3f093f"
+}, {
+    "rating": 29.3722,
+    "points": 0,
+    "playerId": "2d22e89b-b1b2-49ce-852d-444febc5b96f"
+}, {
+    "rating": 43.0757,
+    "points": 0,
+    "playerId": "c87f28ec-7d90-4bdf-89d7-b4e9a8346ca8"
+}, {
+    "rating": 21.5476,
+    "points": 0,
+    "playerId": "d82f015b-0ebd-495c-917b-d0e550c080f1"
+}, {
+    "rating": 20.9722,
+    "points": 0,
+    "playerId": "b92d6b67-af52-42a1-8e08-f90e3a5b34bf"
+}, {
+    "rating": 27.9437,
+    "points": 0,
+    "playerId": "f4459f31-550b-4f79-b51a-b27a95de239b"
+}, {
+    "rating": 10.9165,
+    "points": 0,
+    "playerId": "6c5d3839-dd39-4ef3-9741-6a70e4708210"
+}, {
+    "rating": 26.6556,
+    "points": 0,
+    "playerId": "14451007-5943-429f-9afb-396bcaa20d45"
+}, {
+    "rating": 19.8926,
+    "points": 0,
+    "playerId": "e7c0fcd1-c412-4556-98fa-d03447be046a"
+}, {
+    "rating": 23.7128,
+    "points": 0,
+    "playerId": "a86e5d74-c6a6-4691-b234-27b19b75ee16"
+}, {
+    "rating": 28.9289,
+    "points": 0,
+    "playerId": "514deb59-6eb9-48ec-9830-0cbbe7f495e3"
+}, {
+    "rating": 17.3714,
+    "points": 0,
+    "playerId": "670ea5d0-95fc-4e33-a868-260492dfb7c5"
+}, {
+    "rating": 16.8109,
+    "points": 0,
+    "playerId": "9e949fe7-edc4-41a1-9dc1-c9a900450bca"
+}, {
+    "rating": 26.1206,
+    "points": 0,
+    "playerId": "585ffa1c-79f2-4395-83d3-1ac58d1228f9"
+}, {
+    "rating": 34.069,
+    "points": 0,
+    "playerId": "118863e3-ae61-4870-a429-8438f5cb4a11"
+}, {
+    "rating": 31.4835,
+    "points": 0,
+    "playerId": "667e582a-3041-408a-8cc3-6929eb95c33c"
+}, {
+    "rating": 25.9872,
+    "points": 0,
+    "playerId": "f835c5b4-f5e2-4005-9c36-34575cc9c6c4"
+}, {
+    "rating": 19.341,
+    "points": 0,
+    "playerId": "0ba8cb88-8dae-40eb-a479-ed17e98f051a"
+}, {
+    "rating": 40.5971,
+    "points": 0,
+    "playerId": "ee0aedb6-d837-4c48-8c70-5cd6ffc8ccee"
+}, {
+    "rating": 14.5177,
+    "points": 0,
+    "playerId": "9a5345c0-2ac2-49ff-88b1-33a8b155cf2a"
+}, {
+    "rating": 23.1308,
+    "points": 0,
+    "playerId": "d50ec736-1be1-4b07-9417-f3cf07a70451"
+}, {
+    "rating": 34.3677,
+    "points": 0,
+    "playerId": "0bdc44ea-bccb-4385-a5a8-afccae4c10b2"
+}, {
+    "rating": 21.352,
+    "points": 0,
+    "playerId": "2ed24471-9a4b-4d4e-a332-9db413d85cc9"
+}, {
+    "rating": 23.3029,
+    "points": 0,
+    "playerId": "7c427c16-3b87-4898-9360-92a49d087647"
+}, {
+    "rating": 36.5238,
+    "points": 0,
+    "playerId": "a69e2209-61fb-4a7a-bfcc-90a7e530451c"
+}, {
+    "rating": 29.8188,
+    "points": 0,
+    "playerId": "bcd34613-73fd-4bce-91a2-c38458293add"
+}, {
+    "rating": 28.2939,
+    "points": 0,
+    "playerId": "235f6cc7-2055-46f3-9ce0-f78f2b2375ba"
+}, {
+    "rating": 21.1087,
+    "points": 0,
+    "playerId": "70469059-f911-452e-8339-02f29a09768f"
+}, {
+    "rating": 20.3555,
+    "points": 0,
+    "playerId": "2a57c813-442c-4685-8d8f-ca321797c8d3"
+}, {
+    "rating": 31.8913,
+    "points": 0,
+    "playerId": "44b8a16c-7010-4af6-a13f-c1ee8ace84e7"
+}, {
+    "rating": 30.9846,
+    "points": 0,
+    "playerId": "220e37b6-c820-4c3f-8926-535af9b5d8e5"
+}, {
+    "rating": 18.3262,
+    "points": 0,
+    "playerId": "8317fb09-9969-4f02-96b5-bc9b388afb58"
+}, {
+    "rating": 26.4935,
+    "points": 0,
+    "playerId": "4eee3aa7-3f7a-44e2-8bac-42860d247421"
+}, {
+    "rating": 5.5652,
+    "points": 0,
+    "playerId": "96d09ca2-6112-4255-ac4e-35fe5d7d4872"
+}, {
+    "rating": 24.0862,
+    "points": 0,
+    "playerId": "a7a42dbe-eb5b-44d2-a659-bf16796102fd"
+}, {
+    "rating": 17.6546,
+    "points": 0,
+    "playerId": "91e872dd-3e6f-44fc-a3c5-f2462fcade6c"
+}, {
+    "rating": 22.5502,
+    "points": 0,
+    "playerId": "c5efa602-97c9-4fa8-81d1-2ba370b81a36"
+}, {
+    "rating": 22.3756,
+    "points": 0,
+    "playerId": "94a28eca-1d25-4ee4-8b2d-28e33eea9aab"
+}, {
+    "rating": 37.9956,
+    "points": 0,
+    "playerId": "1ff58c15-9ab0-451e-96e3-9c322486e59c"
+}, {
+    "rating": 26.0663,
+    "points": 0,
+    "playerId": "942475c6-115e-4242-b6e5-c2c091bead76"
+}, {
+    "rating": 10.1176,
+    "points": 0,
+    "playerId": "5f403b78-43f1-4f5e-9874-9826edd94fe6"
+}, {
+    "rating": 25.6595,
+    "points": 0,
+    "playerId": "26c24efe-57bf-4306-816a-452a973b5ebb"
+}, {
+    "rating": 12.767,
+    "points": 0,
+    "playerId": "08d7dce8-0345-409c-9d5d-a8606e0a1331"
+}, {
+    "rating": 20.6963,
+    "points": 0,
+    "playerId": "b2142bc3-4256-40c4-b3cf-998bf43f80ea"
+}, {
+    "rating": 41.5633,
+    "points": 0,
+    "playerId": "ec3d4b98-8561-47ff-9e52-1a3949cce0ef"
+}, {
+    "rating": 22.9224,
+    "points": 0,
+    "playerId": "ab24e050-870e-4993-b476-409d93acc155"
+}, {
+    "rating": 24.7565,
+    "points": 0,
+    "playerId": "6c6be7bd-ee40-4c92-b86a-d3c46e78617f"
+}, {
+    "rating": 16.1517,
+    "points": 0,
+    "playerId": "7ad419a8-aedd-4dc9-9191-8326241e3ad9"
+}, {
+    "rating": 12.4678,
+    "points": 0,
+    "playerId": "42b3d102-b72d-44d9-988f-7d269c34bd22"
+}, {
+    "rating": 24.4876,
+    "points": 0,
+    "playerId": "e2d65c8e-c39c-4d03-8a78-8b39fc53915b"
+}, {
+    "rating": 21.011,
+    "points": 0,
+    "playerId": "0903b2d1-3b3a-47bf-90b4-34f348ee1677"
+}, {
+    "rating": 20.0266,
+    "points": 0,
+    "playerId": "a3cb858d-4138-4a13-b31b-57def939b9ff"
+}, {
+    "rating": 40.2149,
+    "points": 0,
+    "playerId": "a8904fce-b1c9-41e4-9761-3b71f5949bb1"
+}, {
+    "rating": 30.6767,
+    "points": 0,
+    "playerId": "3cea25eb-a1a0-4857-b9f5-ab3713d16201"
+}, {
+    "rating": 32.2678,
+    "points": 0,
+    "playerId": "b7a30f0f-f421-4ca8-8e0d-3f802741efc0"
+}, {
+    "rating": 29.8282,
+    "points": 0,
+    "playerId": "a305e2a4-d2a9-4288-9e11-24a74b4d3ce7"
+}, {
+    "rating": 33.7728,
+    "points": 0,
+    "playerId": "c02ae68a-2180-49eb-a56c-48586306323b"
+}, {
+    "rating": 29.3433,
+    "points": 0,
+    "playerId": "2eaf74d4-4bde-4e53-ab98-044c6f610304"
+}, {
+    "rating": 28.8528,
+    "points": 0,
+    "playerId": "e6d358da-5efa-4eab-a1f2-e8257d6f64b9"
+}, {
+    "rating": 33.7235,
+    "points": 0,
+    "playerId": "6f4795af-48cb-4109-8e54-af83749d4953"
+}, {
+    "rating": 17.9839,
+    "points": 0,
+    "playerId": "936f91d3-a745-4b85-8e68-b61353f1f541"
+}, {
+    "rating": 16.2403,
+    "points": 0,
+    "playerId": "028c991d-f119-4ebf-adb2-aaefd881d486"
+}, {
+    "rating": 26.9894,
+    "points": 0,
+    "playerId": "5bb194e8-0fe9-449f-8230-0ffd960725aa"
+}, {
+    "rating": 27.402,
+    "points": 0,
+    "playerId": "98cd8dad-0fa6-4f89-b905-ddb0cbe18465"
+}, {
+    "rating": 25.0418,
+    "points": 0,
+    "playerId": "6863dccb-ed84-47c5-9721-fbab6a6eaaf9"
+}, {
+    "rating": 19.5871,
+    "points": 0,
+    "playerId": "f31a88d7-0df8-40fd-8108-260eda35ee09"
+}, {
+    "rating": 17.7299,
+    "points": 0,
+    "playerId": "827a5b13-db8a-44b5-b9b6-dd9c2327c831"
+}, {
+    "rating": 27.8538,
+    "points": 0,
+    "playerId": "dfcdec14-e291-4e35-aa08-d25f2dc9bd12"
+}, {
+    "rating": 17.1928,
+    "points": 0,
+    "playerId": "4154b570-a5db-4fff-9f64-5da6f6d4c0f1"
+}, {
+    "rating": 33.2399,
+    "points": 0,
+    "playerId": "47ed0900-46d8-425b-a567-2c8c85d83d8c"
+}, {
+    "rating": 29.454,
+    "points": 0,
+    "playerId": "1ec0df81-5543-4be1-b630-3845632a1773"
+}, {
+    "rating": 25.26,
+    "points": 0,
+    "playerId": "0063bc37-4501-4c82-8d36-919a327619f4"
+}, {
+    "rating": 25.4424,
+    "points": 0,
+    "playerId": "6249a042-61bf-493f-b28a-9884b581b3ff"
+}, {
+    "rating": 27.7225,
+    "points": 0,
+    "playerId": "b5677ece-c2c5-4d29-b7ed-93a71ad26951"
+}, {
+    "rating": 30.8864,
+    "points": 0,
+    "playerId": "5c4c67c0-a7ea-4021-a4d7-aaba397d4f02"
+}, {
+    "rating": 26.0118,
+    "points": 0,
+    "playerId": "b0fee362-7658-4956-a576-195fe167f64d"
+}, {
+    "rating": 29.0723,
+    "points": 0,
+    "playerId": "d8bb3338-0ebc-4ed6-baa2-545907b7be33"
+}, {
+    "rating": 14.1917,
+    "points": 0,
+    "playerId": "6241dda8-f2a5-48ed-8b76-3afdb4203091"
+}, {
+    "rating": 18.6151,
+    "points": 0,
+    "playerId": "cae69c68-1221-422c-b746-5569c3f115c8"
+}, {
+    "rating": 25.249,
+    "points": 0,
+    "playerId": "30c21a3d-48b0-4745-b8e2-12a758fa12cf"
+}, {
+    "rating": 20.1749,
+    "points": 0,
+    "playerId": "17722c7b-abf7-4b80-948e-3c10412a7e5c"
+}, {
+    "rating": 27.9097,
+    "points": 0,
+    "playerId": "fbcc10f3-475f-49c5-a65e-4ff1a467ac0f"
+}, {
+    "rating": 7.9634,
+    "points": 0,
+    "playerId": "2f2d782a-92fa-4f0e-a337-9eebd0ece045"
+}, {
+    "rating": 32.4853,
+    "points": 0,
+    "playerId": "6f7b7dc6-e64c-4b8c-a9c9-f2c6e04dbac8"
+}, {
+    "rating": 29.499,
+    "points": 0,
+    "playerId": "b43222e4-63d8-44fd-9a3d-2f08ddc025fd"
+}, {
+    "rating": 30.3931,
+    "points": 0,
+    "playerId": "71bcd297-80a6-4dd3-9c37-24db3458ba93"
+}, {
+    "rating": 32.8439,
+    "points": 0,
+    "playerId": "7c3bb10d-19b2-42c5-9ab1-c2f31c2c78a0"
+}, {
+    "rating": 13.8104,
+    "points": 0,
+    "playerId": "96fbc46e-927d-4261-860e-69c6c9dde926"
+}, {
+    "rating": 11.8986,
+    "points": 0,
+    "playerId": "040c2f66-055e-4d06-9dcd-503716e176d6"
+}, {
+    "rating": 27.5093,
+    "points": 0,
+    "playerId": "18af25d4-20ee-40e3-8533-51256b73a79f"
+}, {
+    "rating": 32.9435,
+    "points": 0,
+    "playerId": "4dd0634e-9a4e-471d-97bd-d2ae24cacde6"
+}, {
+    "rating": 23.3258,
+    "points": 0,
+    "playerId": "9a59761b-d894-4484-aa24-bac7018999b7"
+}, {
+    "rating": 40.4855,
+    "points": 0,
+    "playerId": "5f25b6c4-4847-486c-850d-be72c45b0db6"
+}, {
+    "rating": 25.3067,
+    "points": 0,
+    "playerId": "64c18292-3d5d-4a80-b107-6c1d9de95b4e"
+}, {
+    "rating": 19.4827,
+    "points": 0,
+    "playerId": "3aae5a09-0ecc-447b-a8dc-151ea19fd0e9"
+}, {
+    "rating": 13.554,
+    "points": 0,
+    "playerId": "b87a9699-a271-4ebd-8e28-3bbc42f55088"
+}, {
+    "rating": 34.2232,
+    "points": 0,
+    "playerId": "79cbd939-b0e7-4d26-996b-2b3af0fb1777"
+}, {
+    "rating": 26.8468,
+    "points": 0,
+    "playerId": "788f5077-20cd-4f6d-934b-08506f309e23"
+}, {
+    "rating": 17.0457,
+    "points": 0,
+    "playerId": "aea9121e-ee5b-4d58-a385-928fa2361033"
+}, {
+    "rating": 17.0142,
+    "points": 0,
+    "playerId": "8fef17fb-2dfc-4fa3-a8c6-5caf8d8ce9b6"
+}, {
+    "rating": 19.5518,
+    "points": 0,
+    "playerId": "ac972917-acf7-421c-ad00-bc1c15234884"
+}, {
+    "rating": 31.3704,
+    "points": 0,
+    "playerId": "b05b93e4-7050-47ee-8269-65e23d499a95"
+}, {
+    "rating": 36.3995,
+    "points": 0,
+    "playerId": "9875a68f-d48a-4083-8572-78c38f8bf402"
+}, {
+    "rating": 26.1501,
+    "points": 0,
+    "playerId": "dfb5da23-587a-4c6e-99c4-cafe55f06843"
+}, {
+    "rating": 20.7191,
+    "points": 0,
+    "playerId": "9fc46bd2-8f20-449b-b914-9ba41004384b"
+}, {
+    "rating": 36.4602,
+    "points": 0,
+    "playerId": "d9fadfc7-9102-4fb8-a19c-dae26d1cca02"
+}, {
+    "rating": 36.0731,
+    "points": 0,
+    "playerId": "f1fe4734-9069-4497-9878-a43a15744425"
+}, {
+    "rating": 34.7605,
+    "points": 0,
+    "playerId": "38b976ff-9cc8-40a4-9679-a4325d777344"
+}, {
+    "rating": 24.8468,
+    "points": 0,
+    "playerId": "d52708e3-5dc9-4e8e-a70d-1d6c94bf8207"
+}, {
+    "rating": 23.3381,
+    "points": 0,
+    "playerId": "d143b48d-f615-42f5-8a4d-5a8858b4c83c"
+}, {
+    "rating": 21.7881,
+    "points": 0,
+    "playerId": "b2baa730-c3ea-443f-9bd9-7189c0e4bce9"
+}, {
+    "rating": 25.4879,
+    "points": 0,
+    "playerId": "7126b25a-9346-4998-84f9-17e8fa1625a5"
+}, {
+    "rating": 37.5553,
+    "points": 0,
+    "playerId": "57db649e-8a5b-48f6-9a37-e9e70aa43cd7"
+}, {
+    "rating": 27.2413,
+    "points": 0,
+    "playerId": "234158f3-3c38-4474-a10d-7630ae45892a"
+}, {
+    "rating": 47.2162,
+    "points": 0,
+    "playerId": "12baebea-5e79-4d3a-90e7-72e33ad57453"
+}, {
+    "rating": 11.9396,
+    "points": 0,
+    "playerId": "f758ef4e-6a3b-454f-9fc9-036643c33711"
+}, {
+    "rating": 16.5371,
+    "points": 0,
+    "playerId": "38ac759a-b532-4808-ad12-845d3e51e8e6"
+}, {
+    "rating": 30.6266,
+    "points": 0,
+    "playerId": "21190059-bc15-4e4c-8870-ecb7fb9a24ad"
+}, {
+    "rating": 21.7738,
+    "points": 0,
+    "playerId": "7d2af630-7067-4993-a4ba-c9d6858e8ea5"
+}, {
+    "rating": 34.8076,
+    "points": 0,
+    "playerId": "db387553-09a8-4c4b-97d3-b196fda7a46f"
+}, {
+    "rating": 12.9097,
+    "points": 0,
+    "playerId": "f5319ae0-9807-43cc-a13b-ab9a66ed618a"
+}, {
+    "rating": 20.2145,
+    "points": 0,
+    "playerId": "e71fb400-61d0-4adb-a2b3-156468e49074"
+}, {
+    "rating": 32.8982,
+    "points": 0,
+    "playerId": "ddb53e11-91e4-490c-8087-fdd7f796e485"
+}, {
+    "rating": 17.5589,
+    "points": 0,
+    "playerId": "eedc65b5-a8bd-46c8-a8ec-ccdfcdf7c547"
+}, {
+    "rating": 22.4452,
+    "points": 0,
+    "playerId": "2ab9d72e-f846-4806-983d-99c9857db63f"
+}, {
+    "rating": 27.2338,
+    "points": 0,
+    "playerId": "c392ed95-9ac8-4c77-afc4-426154c1885a"
+}, {
+    "rating": 36.8836,
+    "points": 0,
+    "playerId": "9081f73c-c86b-4595-8270-25d21fe9e012"
+}, {
+    "rating": 30.1971,
+    "points": 0,
+    "playerId": "f4db828a-3bef-4a2b-b9a5-0e7125dd849e"
+}, {
+    "rating": 12.1707,
+    "points": 0,
+    "playerId": "cd8aa3ba-980b-4376-91a1-d28b8271ba12"
+}, {
+    "rating": 24.7958,
+    "points": 0,
+    "playerId": "0d7a1152-8d16-4b86-8c5d-bc13283dd48b"
+}, {
+    "rating": 29.7723,
+    "points": 0,
+    "playerId": "a3951e99-bdf7-4c87-aa9a-aa2702f9f55f"
+}, {
+    "rating": 21.6913,
+    "points": 0,
+    "playerId": "e2740b6c-a730-42b3-8725-65a8eb14d634"
+}, {
+    "rating": 27.719,
+    "points": 0,
+    "playerId": "62d72a97-ca64-4fa4-8bb1-db28d93ff67d"
+}, {
+    "rating": 21.8894,
+    "points": 0,
+    "playerId": "4a58b6bb-7ecf-40e0-a362-03f9ecc02200"
+}, {
+    "rating": 11.4372,
+    "points": 0,
+    "playerId": "e7e004b0-a76c-4dbb-b5e5-c66ad5b4d651"
+}, {
+    "rating": 27.0269,
+    "points": 0,
+    "playerId": "49b88be1-fba2-45d9-a996-7ca195f949de"
+}, {
+    "rating": 26.6732,
+    "points": 0,
+    "playerId": "ecd7b86c-f675-41b7-98ed-088d034e11f8"
+}, {
+    "rating": 18.5125,
+    "points": 0,
+    "playerId": "f5951932-c592-432c-aed3-e31b75059950"
+}, {
+    "rating": 21.2387,
+    "points": 0,
+    "playerId": "8d6abd76-97f0-4858-8834-abe97349a78b"
+}, {
+    "rating": 30.1149,
+    "points": 0,
+    "playerId": "066bbe9a-3bc8-4539-a0c3-617ef4eab5e6"
+}, {
+    "rating": 31.234,
+    "points": 0,
+    "playerId": "190d3d0c-ce63-48fa-9ab5-518caea930f4"
+}, {
+    "rating": 23.8193,
+    "points": 0,
+    "playerId": "f1f68b83-0eb6-4f2b-9dae-d17d09144dc7"
+}, {
+    "rating": 25.0451,
+    "points": 0,
+    "playerId": "ae03cfb0-4fa3-4112-9287-1fbd6747f092"
+}, {
+    "rating": 15.0595,
+    "points": 0,
+    "playerId": "f5fce7e1-31bf-44c6-9e8e-0b5381982ee1"
+}, {
+    "rating": 12.2657,
+    "points": 0,
+    "playerId": "63e26cb5-813c-4c82-b218-f652f9f3bc1c"
+}, {
+    "rating": 33.0557,
+    "points": 0,
+    "playerId": "81193bcf-55ff-4911-9627-1cccf13c477b"
+}, {
+    "rating": 21.9275,
+    "points": 0,
+    "playerId": "2d347298-b7aa-4cdd-af25-0b8156b76b49"
+}, {
+    "rating": 16.2639,
+    "points": 0,
+    "playerId": "0a4c4ffa-7b84-4ddc-8f7d-a3f0d280189b"
+}, {
+    "rating": 38.1757,
+    "points": 0,
+    "playerId": "0d2969e7-c5f0-4dae-b221-8f7d262dc5d2"
+}, {
+    "rating": 28.8368,
+    "points": 0,
+    "playerId": "5f6bbcfb-5ec6-4d79-a37a-8615846de91f"
+}, {
+    "rating": 32.6896,
+    "points": 0,
+    "playerId": "19bd889d-6bf6-441e-86ed-797f944a8816"
+}, {
+    "rating": 22.0935,
+    "points": 0,
+    "playerId": "3a2520f7-0e77-437d-b6d6-c9cde7bcbcc7"
+}, {
+    "rating": 28.8565,
+    "points": 0,
+    "playerId": "919ed405-fb9b-42d5-acda-04c7470cb6ec"
+}, {
+    "rating": 20.5981,
+    "points": 0,
+    "playerId": "c8367a36-b2df-472a-8914-7e190d2dc7e4"
+}, {
+    "rating": 31.7335,
+    "points": 0,
+    "playerId": "12ce79dc-2dc1-4b10-9d51-f9683a6e30e7"
+}, {
+    "rating": 25.1524,
+    "points": 0,
+    "playerId": "fba1b763-25f2-4905-8b8c-81b3648ed938"
+}, {
+    "rating": 15.6937,
+    "points": 0,
+    "playerId": "184a01a3-e4bf-4843-a9b1-6c937ca31cc1"
+}, {
+    "rating": 26.5048,
+    "points": 0,
+    "playerId": "c110ab4b-12d4-4b15-a115-17c52731e197"
+}, {
+    "rating": 17.4374,
+    "points": 0,
+    "playerId": "25826848-22f1-48d7-b9c3-2c19f15f062f"
+}, {
+    "rating": 21.2502,
+    "points": 0,
+    "playerId": "8aab2884-4bf2-4f18-9df3-206ebf4c1fba"
+}, {
+    "rating": 30.1045,
+    "points": 0,
+    "playerId": "1f8c9590-2870-4af3-afcc-45fee220772f"
+}, {
+    "rating": 30.2391,
+    "points": 0,
+    "playerId": "628f8618-ad4c-4b8e-a5ff-a279d8ca5e77"
+}, {
+    "rating": 19.7857,
+    "points": 0,
+    "playerId": "9bb35a60-78a3-40c0-8343-9de721e75a14"
+}, {
+    "rating": 24.406,
+    "points": 0,
+    "playerId": "4b889068-b425-4cc4-a94e-d7fe83b27a4c"
+}, {
+    "rating": 13.0767,
+    "points": 0,
+    "playerId": "41598ce1-9354-4c7c-a6f7-a2bd74f5e600"
+}, {
+    "rating": 27.9774,
+    "points": 0,
+    "playerId": "5faa9299-9fb3-4df2-bd0e-99561062ef05"
+}, {
+    "rating": 7.3629,
+    "points": 0,
+    "playerId": "7ac72eee-1c41-4258-834d-fd6b51901406"
+}, {
+    "rating": 27.139,
+    "points": 0,
+    "playerId": "213de2ae-fe0e-46ae-8426-c6b2df0afabf"
+}, {
+    "rating": 12.4775,
+    "points": 0,
+    "playerId": "ad4207b1-45fe-498f-b624-c4d38d88e59b"
+}, {
+    "rating": 35.5876,
+    "points": 0,
+    "playerId": "58ee4a6b-52bb-4179-9077-3a28dc957633"
+}, {
+    "rating": 15.8458,
+    "points": 0,
+    "playerId": "7d46cb0e-2db5-4590-832f-9be95ba09e18"
+}, {
+    "rating": 43.1619,
+    "points": 0,
+    "playerId": "d32832f8-a378-4365-8e6d-515791670f4c"
+}, {
+    "rating": 8.5858,
+    "points": 0,
+    "playerId": "062c2c17-a180-4c08-af8b-89e06201d866"
+}, {
+    "rating": 33.9009,
+    "points": 0,
+    "playerId": "2b462bea-1294-4b23-9d2a-f99a042f37c5"
+}, {
+    "rating": 31.0747,
+    "points": 0,
+    "playerId": "d88734f4-cd48-4b45-b436-646cc65a980d"
+}, {
+    "rating": 29.1026,
+    "points": 0,
+    "playerId": "e191f73d-68bf-4bd7-88be-6373f2b0adb0"
+}, {
+    "rating": 43.6136,
+    "points": 0,
+    "playerId": "b6af44eb-8800-47f2-9d19-640b346b1c44"
+}, {
+    "rating": 27.7548,
+    "points": 0,
+    "playerId": "b9014813-02dc-403c-bf9f-16747760770e"
+}, {
+    "rating": 34.0574,
+    "points": 0,
+    "playerId": "37db5cdb-2d4b-4560-bd0a-07d5b7719222"
+}, {
+    "rating": 32.1182,
+    "points": 0,
+    "playerId": "c6e6690e-1847-4130-ae44-8ea54c13596e"
+}, {
+    "rating": 30.4054,
+    "points": 0,
+    "playerId": "08923ebe-68e2-41cd-be0a-c286acb36801"
+}, {
+    "rating": 34.3972,
+    "points": 0,
+    "playerId": "61ceb63e-f2f3-41ab-9959-298efc251873"
+}, {
+    "rating": 13.6716,
+    "points": 0,
+    "playerId": "e9f09871-6a11-4152-b7e1-4ef59e3cdf77"
+}, {
+    "rating": 21.2673,
+    "points": 0,
+    "playerId": "52120ac2-942c-4de2-88b2-dbb763e6c500"
+}, {
+    "rating": 30.9311,
+    "points": 0,
+    "playerId": "6c977a1e-85ef-482d-b539-9d62bbf924f7"
+}, {
+    "rating": 37.5968,
+    "points": 0,
+    "playerId": "03ff95ae-d548-465e-bc86-cb3ca866a8e0"
+}, {
+    "rating": 26.0961,
+    "points": 0,
+    "playerId": "80c1a7c2-f934-497a-b427-a962f7727faf"
+}, {
+    "rating": 26.5136,
+    "points": 0,
+    "playerId": "138655c5-0183-48af-9feb-fa0879cf0e7b"
+}, {
+    "rating": 21.7945,
+    "points": 0,
+    "playerId": "11debd60-d4f1-48f9-9132-133e9922acb7"
+}, {
+    "rating": 31.6608,
+    "points": 0,
+    "playerId": "c2dca551-5ae7-4142-a0dc-566765087e67"
+}, {
+    "rating": 34.0527,
+    "points": 0,
+    "playerId": "0cc33249-7beb-4f22-9424-60f88c34515a"
+}, {
+    "rating": 30.9075,
+    "points": 0,
+    "playerId": "a3a067f7-5a72-419e-87d7-55fa599f2879"
+}, {
+    "rating": 35.2339,
+    "points": 0,
+    "playerId": "f8e9bab4-5b8b-4295-8046-09cb9fba1c16"
+}, {
+    "rating": 23.7109,
+    "points": 0,
+    "playerId": "5c698d90-326e-4785-aa07-b706f306bb9e"
+}, {
+    "rating": 21.404,
+    "points": 0,
+    "playerId": "0396fc91-28d3-4d74-9cc4-2027baf657b5"
+}, {
+    "rating": 31.5339,
+    "points": 0,
+    "playerId": "2153debf-166d-4536-b90a-11a9414f78b6"
+}, {
+    "rating": 32.2918,
+    "points": 0,
+    "playerId": "425de1b7-fd2f-495e-bd8f-0d4d173456c0"
+}, {
+    "rating": 27.0763,
+    "points": 0,
+    "playerId": "788c156a-fdd6-4b4b-96cf-c39c590963ae"
+}, {
+    "rating": 26.9973,
+    "points": 0,
+    "playerId": "45df9dfe-34f4-48fb-b299-043e69762bbe"
+}, {
+    "rating": 25.8682,
+    "points": 0,
+    "playerId": "25de8029-3d4c-42aa-9888-503177cdddce"
+}, {
+    "rating": 22.9544,
+    "points": 0,
+    "playerId": "b2da4c71-ae19-47b8-b8f6-fb5cd0180c78"
+}, {
+    "rating": 22.3592,
+    "points": 0,
+    "playerId": "8426a08c-bd2b-4dee-93e2-374f4c6b3ff4"
+}, {
+    "rating": 25.9469,
+    "points": 0,
+    "playerId": "f2a90ae2-5462-4fac-970f-482ffe1325ee"
+}, {
+    "rating": 39.4385,
+    "points": 0,
+    "playerId": "7a46359c-c940-4f5f-8d8f-26a18c6dafd4"
+}, {
+    "rating": 23.5395,
+    "points": 0,
+    "playerId": "36a37eb4-2446-4a2e-bf82-d6366a06152b"
+}, {
+    "rating": 25.3892,
+    "points": 0,
+    "playerId": "462ccd46-bac9-4961-b425-1da359f04f00"
+}, {
+    "rating": 10.5377,
+    "points": 0,
+    "playerId": "793f80d0-6f34-4db2-afa7-682e2ab4c69b"
+}, {
+    "rating": 22.3501,
+    "points": 0,
+    "playerId": "fc665a7b-bcda-40c8-952c-112842fcbabc"
+}, {
+    "rating": 14.4467,
+    "points": 0,
+    "playerId": "f4531a89-b0f1-4ebd-b627-88ca2ec342fd"
+}, {
+    "rating": 27.4108,
+    "points": 0,
+    "playerId": "76d180ae-29b4-4c17-a9a8-3d90f87e0680"
+}, {
+    "rating": 18.3395,
+    "points": 0,
+    "playerId": "e2679ff8-84e0-4a6c-8bd7-d5835e6864cf"
+}, {
+    "rating": 26.6647,
+    "points": 0,
+    "playerId": "1b7a9258-3591-4273-a371-6074b90f793b"
+}, {
+    "rating": 45.2164,
+    "points": 0,
+    "playerId": "e24ccc3d-2f5d-4d72-978f-1998dbd0b2db"
+}, {
+    "rating": 32.1705,
+    "points": 0,
+    "playerId": "7bfb7b6d-e23a-4a62-87a3-54e27e90a94a"
+}, {
+    "rating": 35.3385,
+    "points": 0,
+    "playerId": "ed8ee379-cbc5-4168-a25d-af0e28df8bca"
+}, {
+    "rating": 25.5417,
+    "points": 0,
+    "playerId": "a6382d1b-d99a-4ac9-a961-798058ef5ab7"
+}, {
+    "rating": 13.7185,
+    "points": 0,
+    "playerId": "f3e5a372-6370-433c-8350-cde6182cbc42"
+}, {
+    "rating": 19.365,
+    "points": 0,
+    "playerId": "9d5d8d5b-8379-4af3-9f1b-01b90bc2f5b9"
+}, {
+    "rating": 16.5248,
+    "points": 0,
+    "playerId": "5d54cec7-623d-458b-bb98-a0a8416a3996"
+}, {
+    "rating": 33.584,
+    "points": 0,
+    "playerId": "aea5ebc4-140c-47f6-96f8-ad59462bcb17"
+}, {
+    "rating": 29.5829,
+    "points": 0,
+    "playerId": "b82238e6-3423-47ce-b757-47acca6fc078"
+}, {
+    "rating": 21.1315,
+    "points": 0,
+    "playerId": "75afb004-7a77-4baa-b13f-bc3c3a8381ed"
+}, {
+    "rating": 29.234,
+    "points": 0,
+    "playerId": "a24a2c1d-4c9b-4ce1-ae03-d4d510a193b7"
+}, {
+    "rating": 27.2702,
+    "points": 0,
+    "playerId": "5c9b6746-37bb-40f4-8c4f-b7635142bb85"
+}, {
+    "rating": 35.7181,
+    "points": 0,
+    "playerId": "23f64199-2953-451f-bca3-815a5af2fe69"
+}, {
+    "rating": 30.2223,
+    "points": 0,
+    "playerId": "b481e063-4f47-41bd-8a2f-c1834771c7ab"
+}, {
+    "rating": 27.4543,
+    "points": 0,
+    "playerId": "76f38481-a5b0-4f76-acde-2f86cdc81022"
+}, {
+    "rating": 23.6727,
+    "points": 0,
+    "playerId": "c229f40f-3d15-48fe-8c18-2b9bbbd81d53"
+}, {
+    "rating": 27.4017,
+    "points": 0,
+    "playerId": "3893d397-80fb-4299-80f4-289b86ca3799"
+}, {
+    "rating": 6.6212,
+    "points": 0,
+    "playerId": "78500cc3-78d0-4734-9677-2ad04d08298b"
+}, {
+    "rating": 24.3555,
+    "points": 0,
+    "playerId": "cf0d8031-3b5d-4d92-ba5c-ab99a65976ab"
+}, {
+    "rating": 28.7281,
+    "points": 0,
+    "playerId": "09d9b0b7-8b0b-429c-86dd-dc0f7a995377"
+}, {
+    "rating": 36.2847,
+    "points": 0,
+    "playerId": "a0d6ed09-2e27-47e2-a7c5-0edeacb5f709"
+}, {
+    "rating": 36.0543,
+    "points": 0,
+    "playerId": "294eefa6-fdbc-43aa-9803-9d6970b57262"
+}, {
+    "rating": 23.7849,
+    "points": 0,
+    "playerId": "21103761-6206-4a30-9bbc-367dd462ca65"
+}, {
+    "rating": 29.8197,
+    "points": 0,
+    "playerId": "c5b92191-b5a0-407e-b5a0-16c441a7dab7"
+}, {
+    "rating": 33.3862,
+    "points": 0,
+    "playerId": "77c1f712-2c33-4a85-b4de-8017776d07b7"
+}, {
+    "rating": 21.0728,
+    "points": 0,
+    "playerId": "04ab01e2-fa48-4c3a-921c-3debae8477e8"
+}, {
+    "rating": 32.3707,
+    "points": 0,
+    "playerId": "df882ae9-4e2e-4c35-b2a3-19e9141f3989"
+}, {
+    "rating": 14.9587,
+    "points": 0,
+    "playerId": "8bf7b1c1-a87a-4999-9d59-5eed81de5f01"
+}, {
+    "rating": 23.2594,
+    "points": 0,
+    "playerId": "f892975d-ceaa-4e07-8c20-6bf6042a61ad"
+}, {
+    "rating": 21.6283,
+    "points": 0,
+    "playerId": "4069e099-5cf0-4764-aa9f-df13c9ad66b6"
+}, {
+    "rating": 28.7629,
+    "points": 0,
+    "playerId": "9b4190f9-85ba-4b77-ac6e-e005eef65301"
+}, {
+    "rating": 17.1446,
+    "points": 0,
+    "playerId": "6e4f38d2-67d5-4b76-8130-4becb12fd495"
+}, {
+    "rating": 17.9983,
+    "points": 0,
+    "playerId": "0e732fc4-904a-4729-a567-8542ba43b3db"
+}, {
+    "rating": 17.2777,
+    "points": 0,
+    "playerId": "753614c8-5545-49f2-9a36-30963b9d8423"
+}, {
+    "rating": 36.1194,
+    "points": 0,
+    "playerId": "523d9f08-224f-4eb3-a968-620bf571a98f"
+}, {
+    "rating": 26.3858,
+    "points": 0,
+    "playerId": "1dede2f7-205c-476f-b545-05c74c332cfe"
+}, {
+    "rating": 28.8423,
+    "points": 0,
+    "playerId": "9792c534-8b42-4596-9a64-31252437611f"
+}, {
+    "rating": 24.0391,
+    "points": 0,
+    "playerId": "17ddb929-c633-41d2-a77a-928c45142d11"
+}, {
+    "rating": 19.2304,
+    "points": 0,
+    "playerId": "524a9a86-49ce-4151-b656-cb9b12817221"
+}, {
+    "rating": 30.9351,
+    "points": 0,
+    "playerId": "d07d088f-db2d-4706-83df-2c2f384fc113"
+}, {
+    "rating": 30.8263,
+    "points": 0,
+    "playerId": "57fa46e5-4d2f-4861-b0cd-467985224ca6"
+}, {
+    "rating": 34.6561,
+    "points": 0,
+    "playerId": "3d998914-60b6-4a12-8155-d774e1e96e25"
+}, {
+    "rating": 33.0278,
+    "points": 0,
+    "playerId": "1ebeb1d4-034e-4b64-bc32-2d9a64efd9ee"
+}, {
+    "rating": 18.6253,
+    "points": 0,
+    "playerId": "299cb93d-f95a-4c11-9490-89c69449233d"
+}, {
+    "rating": 23.3372,
+    "points": 0,
+    "playerId": "afedd4e7-7a7b-4594-acac-4988288db105"
+}, {
+    "rating": 26.4554,
+    "points": 0,
+    "playerId": "f17464ae-784d-4128-bd75-0cb6d9111fa8"
+}, {
+    "rating": 16.1482,
+    "points": 0,
+    "playerId": "723b3c77-1822-42e9-8197-ed4fbcd33232"
+}, {
+    "rating": 21.5093,
+    "points": 0,
+    "playerId": "f68506ff-d531-4d4a-ac38-8abe4c509c70"
+}, {
+    "rating": 25.6172,
+    "points": 0,
+    "playerId": "b9dc7b39-4536-44a6-8fb0-062e3a1ee312"
+}, {
+    "rating": 16.5807,
+    "points": 0,
+    "playerId": "2bbeaf28-a6e2-42a2-8f2e-8814e2d9a640"
+}, {
+    "rating": 17.8145,
+    "points": 0,
+    "playerId": "b35cea10-54a4-413a-a1c0-1dd5ff31d6e9"
+}, {
+    "rating": 21.5174,
+    "points": 0,
+    "playerId": "9fbe135d-e109-43fe-8120-db5657d9e050"
+}, {
+    "rating": 24.1207,
+    "points": 0,
+    "playerId": "5a5d27e5-07b9-4e89-a6eb-80a6178bca1e"
+}, {
+    "rating": 28.2917,
+    "points": 0,
+    "playerId": "0c3865c9-5c87-47ce-9d6a-7dfc7f69440d"
+}, {
+    "rating": 18.0714,
+    "points": 0,
+    "playerId": "bf896c49-a31f-47ec-8f62-ea35789b127e"
+}, {
+    "rating": 20.0808,
+    "points": 0,
+    "playerId": "112118bf-763b-43dc-810a-18fcecb4bfd4"
+}, {
+    "rating": 35.9444,
+    "points": 0,
+    "playerId": "0138ce87-8730-4ed3-90c8-b46c4661ea83"
+}, {
+    "rating": 36.2215,
+    "points": 0,
+    "playerId": "7ddd4659-8ea5-4216-8e37-a7150727e864"
+}, {
+    "rating": 18.2302,
+    "points": 0,
+    "playerId": "e9af6db5-59f1-4bee-9a06-c9e25c27adc5"
+}, {
+    "rating": 23.941,
+    "points": 0,
+    "playerId": "b99f878e-77c2-4ca0-915b-778ed6a3b81a"
+}, {
+    "rating": 16.8286,
+    "points": 0,
+    "playerId": "cca20185-e62d-423b-8c8c-87b280cf3891"
+}, {
+    "rating": 24.658,
+    "points": 0,
+    "playerId": "2fed6c9c-679d-4f7a-92ab-32a371bca3b4"
+}, {
+    "rating": 15.539,
+    "points": 0,
+    "playerId": "aaa5abd1-9bd2-4841-9abf-44c0439cf9fc"
+}, {
+    "rating": 23.9248,
+    "points": 0,
+    "playerId": "5288dc72-89d4-40c9-9002-af0097780ef0"
+}, {
+    "rating": 35.6451,
+    "points": 0,
+    "playerId": "7c43213a-6edf-4ffb-83a8-2c9cda452d6d"
+}, {
+    "rating": 26.9725,
+    "points": 0,
+    "playerId": "f08eb473-0f4e-46a1-9266-64375b7a6252"
+}, {
+    "rating": 15.0724,
+    "points": 0,
+    "playerId": "df248447-c21c-48d0-a44d-bdc2c3f029aa"
+}, {
+    "rating": 28.8629,
+    "points": 0,
+    "playerId": "1452c886-f54d-4e4e-9614-b3f2744e3d95"
+}, {
+    "rating": 20.1663,
+    "points": 0,
+    "playerId": "0e83ac9d-fc39-4e1c-9934-90fc36a1b122"
+}, {
+    "rating": 25.2493,
+    "points": 0,
+    "playerId": "29c6dda4-3654-44d7-9b43-95d22cdc2a2a"
+}, {
+    "rating": 15.8302,
+    "points": 0,
+    "playerId": "9574e1d3-c4ca-4498-aa0e-ca79e3d145cb"
+}, {
+    "rating": 30.9196,
+    "points": 0,
+    "playerId": "b4bb2aed-fb8c-49aa-8e31-a5ae9fd8feaf"
+}, {
+    "rating": 14.8831,
+    "points": 0,
+    "playerId": "fce832cc-c31f-4f95-98a1-251461fbb2c1"
+}, {
+    "rating": 30.9683,
+    "points": 0,
+    "playerId": "690c21c2-008f-4fff-a6ba-ca557b6b7f92"
+}, {
+    "rating": 38.1863,
+    "points": 0,
+    "playerId": "dad2205a-f9e7-42df-805a-6e4a1334156d"
+}, {
+    "rating": 21.8335,
+    "points": 0,
+    "playerId": "250ced28-da72-4855-acff-c162621f00cb"
+}, {
+    "rating": 15.5387,
+    "points": 0,
+    "playerId": "3e6b8de5-c5e4-4dc6-b81f-6dae315ad45e"
+}, {
+    "rating": 17.5271,
+    "points": 0,
+    "playerId": "33c0b666-d21b-402d-901e-756be5ab9bac"
+}, {
+    "rating": 34.1299,
+    "points": 0,
+    "playerId": "1db2cec6-0b26-48ac-9dd7-afc65ff24dbb"
+}, {
+    "rating": 30.4545,
+    "points": 0,
+    "playerId": "1b11a796-0852-4b54-9279-d98e4f112d3e"
+}, {
+    "rating": 21.4029,
+    "points": 0,
+    "playerId": "8730fb52-0e47-45dc-87f1-1feedd282378"
+}, {
+    "rating": 37.4989,
+    "points": 0,
+    "playerId": "674c5fab-2aa1-4b25-b5c8-8f36939e54bc"
+}, {
+    "rating": 41.5104,
+    "points": 0,
+    "playerId": "2635f3c6-7876-4f2d-85ea-5658fd8f586b"
+}, {
+    "rating": 32.5106,
+    "points": 0,
+    "playerId": "01ff393d-7879-4679-ac17-56e29d40f1db"
+}, {
+    "rating": 19.9625,
+    "points": 0,
+    "playerId": "faf0783d-7a2e-4b87-8264-d42758f33f3b"
+}, {
+    "rating": 23.5581,
+    "points": 0,
+    "playerId": "49934d94-c8ef-45e5-9db8-20abc2834221"
+}, {
+    "rating": 26.7252,
+    "points": 0,
+    "playerId": "52ed855e-04cb-4bd1-a968-2a620d7ca86c"
+}, {
+    "rating": 25.9481,
+    "points": 0,
+    "playerId": "31d6fe5e-2b2f-43fc-8294-b82141aa4e55"
+}, {
+    "rating": 50.2302,
+    "points": 0,
+    "playerId": "b989d08a-bf94-437f-bfd1-842c979d5ab2"
+}, {
+    "rating": 20.6266,
+    "points": 0,
+    "playerId": "27cce19f-11b4-4a18-977a-32534b3678dd"
+}, {
+    "rating": 28.4046,
+    "points": 0,
+    "playerId": "552c469e-823e-4979-bba1-dc4b4d77e1ec"
+}, {
+    "rating": 24.0436,
+    "points": 0,
+    "playerId": "573b9976-fed6-4534-9a3a-7e6f5d178dcf"
+}, {
+    "rating": 15.2735,
+    "points": 0,
+    "playerId": "569f78c2-d004-40e7-9f1a-fad5d1f50e36"
+}, {
+    "rating": 38.6786,
+    "points": 0,
+    "playerId": "a05c8aa4-8c3a-410a-b512-22477a501f05"
+}, {
+    "rating": 27.4106,
+    "points": 0,
+    "playerId": "d1e9f666-ba15-49bc-9738-1529ee830801"
+}, {
+    "rating": 24.3707,
+    "points": 0,
+    "playerId": "69b628ca-93da-4c34-abdc-3c6fd1e1504b"
+}, {
+    "rating": 40.8197,
+    "points": 0,
+    "playerId": "4ad637e6-993d-421a-9186-060f85db5f90"
+}, {
+    "rating": 17.9191,
+    "points": 0,
+    "playerId": "7f2a23cc-f6b6-4898-986d-9525cc54f4eb"
+}, {
+    "rating": 18.3862,
+    "points": 0,
+    "playerId": "1560d377-9b0d-46a1-8e44-b99f0eb07c4c"
+}, {
+    "rating": 24.8892,
+    "points": 0,
+    "playerId": "eb5f8b63-cbc9-4dea-a2c4-d03e6d339658"
+}, {
+    "rating": 19.7271,
+    "points": 0,
+    "playerId": "288ccdbd-5050-44f5-8c72-86126bd5066b"
+}, {
+    "rating": 19.7417,
+    "points": 0,
+    "playerId": "5dabcab9-462a-4964-a36f-f5f00f3f2bea"
+}, {
+    "rating": 11.5226,
+    "points": 0,
+    "playerId": "6727cae6-1792-48eb-88fb-6796342793dd"
+}, {
+    "rating": 37.1875,
+    "points": 0,
+    "playerId": "e8493228-1bfd-4243-8603-ac58fda7c45c"
+}, {
+    "rating": 16.0989,
+    "points": 0,
+    "playerId": "929f9e08-9292-4b04-893d-7873b95d040a"
+}, {
+    "rating": 19.7615,
+    "points": 0,
+    "playerId": "93bbd021-011a-43fd-82c8-fa5d473b755a"
+}, {
+    "rating": 29.9031,
+    "points": 0,
+    "playerId": "7f3843e2-fd83-47e0-b828-fa8d91494cf8"
+}, {
+    "rating": 15.4525,
+    "points": 0,
+    "playerId": "3126d932-63ed-4d72-bfaf-76bfcee2d7ca"
+}, {
+    "rating": 20.0078,
+    "points": 0,
+    "playerId": "24e67a57-4312-43f3-a33a-5e6c156ced59"
+}, {
+    "rating": 17.1147,
+    "points": 0,
+    "playerId": "192932b0-14a5-4b17-bca7-b4a13fd26f81"
+}, {
+    "rating": 35.7883,
+    "points": 0,
+    "playerId": "d287769a-794c-4daa-ae00-522846aa4d24"
+}, {
+    "rating": 22.9078,
+    "points": 0,
+    "playerId": "125b7178-03b3-4853-a62a-761b58c44c14"
+}, {
+    "rating": 28.8438,
+    "points": 0,
+    "playerId": "f56c23f6-0ef7-4265-92af-cf24eb0629cd"
+}, {
+    "rating": 22.9666,
+    "points": 0,
+    "playerId": "e7fa3953-39a2-45f9-81b5-0bcc18f9d212"
+}, {
+    "rating": 24.1855,
+    "points": 0,
+    "playerId": "ce77574d-ff97-4b12-900b-43a972adb4d5"
+}, {
+    "rating": 23.1607,
+    "points": 0,
+    "playerId": "482fc476-3e23-445d-b018-2049f3ee888a"
+}, {
+    "rating": 9.8908,
+    "points": 0,
+    "playerId": "9e7f1e17-7cf8-4956-97a1-d4a010f74280"
+}, {
+    "rating": 10.3555,
+    "points": 0,
+    "playerId": "d9de192c-893d-4e3c-af67-4b3e096d800d"
+}, {
+    "rating": 11.6841,
+    "points": 0,
+    "playerId": "eb0133fa-8e79-44ec-8ab7-9553012ff1f4"
+}, {
+    "rating": 35.737,
+    "points": 0,
+    "playerId": "7a0e987d-a07e-4f50-a60d-d179e31973d9"
+}, {
+    "rating": 20.5543,
+    "points": 0,
+    "playerId": "464fdba4-2bea-43f7-9568-f0aef86955cd"
+}, {
+    "rating": 20.7391,
+    "points": 0,
+    "playerId": "9d5bf74e-a7a1-4140-8765-9c16cd33f352"
+}, {
+    "rating": 5.2892,
+    "points": 0,
+    "playerId": "bfc253ee-9fed-433f-8a52-4b4f92dacebc"
+}, {
+    "rating": 36.4397,
+    "points": 0,
+    "playerId": "212eade4-bcb5-4b54-92dd-4476bb869c08"
+}, {
+    "rating": 21.6115,
+    "points": 0,
+    "playerId": "1d471a49-848f-4ee7-b05c-5a1a574cb9a8"
+}, {
+    "rating": 23.9766,
+    "points": 0,
+    "playerId": "3228ab0b-5bc5-45d7-9403-99c2623a6410"
+}, {
+    "rating": 24.91,
+    "points": 0,
+    "playerId": "3b933a82-60de-4661-b091-15a74e34df18"
+}, {
+    "rating": 25.8769,
+    "points": 0,
+    "playerId": "45df5288-c96e-4a06-9aa6-1c8bbf72ab82"
+}, {
+    "rating": 16.6593,
+    "points": 0,
+    "playerId": "9c712bce-6d40-4129-9adf-1ba2371f943f"
+}, {
+    "rating": 12.9164,
+    "points": 0,
+    "playerId": "26d57baf-c264-4c7a-ac02-7eb77447e5de"
+}, {
+    "rating": 23.5619,
+    "points": 0,
+    "playerId": "dd02a1f1-481d-4461-aec0-c81cdf98ac29"
+}, {
+    "rating": 27.0782,
+    "points": 0,
+    "playerId": "eaf66d13-6e45-416f-ac7c-511efb4b7531"
+}, {
+    "rating": 29.5286,
+    "points": 0,
+    "playerId": "a9f3e696-f3fc-488d-9933-146800fe4334"
+}, {
+    "rating": 25.0676,
+    "points": 0,
+    "playerId": "92183b2f-0805-4351-b5fb-887eca77f35d"
+}, {
+    "rating": 22.4198,
+    "points": 0,
+    "playerId": "bf2ff582-a3d5-4696-b88e-34c227c95cec"
+}, {
+    "rating": 23.4415,
+    "points": 0,
+    "playerId": "3087eddb-d3cf-415b-a506-71dae33c90a4"
+}, {
+    "rating": 31.9108,
+    "points": 0,
+    "playerId": "e9fc4f64-de4a-4b6f-92df-6ba6dbbd5934"
+}, {
+    "rating": 23.1426,
+    "points": 0,
+    "playerId": "1c2fcf86-84ee-4b67-997b-41a164097794"
+}, {
+    "rating": 12.3368,
+    "points": 0,
+    "playerId": "f8cec63a-dfef-4b1f-820e-71f9100dfbbb"
+}, {
+    "rating": 28.292,
+    "points": 0,
+    "playerId": "8ce1cde5-4e72-4734-8032-8d904d2fcebe"
+}, {
+    "rating": 10.2381,
+    "points": 0,
+    "playerId": "9dc7085e-64bf-45ac-a004-47aa33ec1fa9"
+}, {
+    "rating": 21.3227,
+    "points": 0,
+    "playerId": "f8e34694-e621-42d6-82b1-71a7f6c5496b"
+}, {
+    "rating": 29.6236,
+    "points": 0,
+    "playerId": "5319de91-87f8-4a0a-8284-7ba89b577cb6"
+}, {
+    "rating": 32.2976,
+    "points": 0,
+    "playerId": "b783ccf9-c005-40e7-9e4f-0c63e2213a25"
+}, {
+    "rating": 24.9735,
+    "points": 0,
+    "playerId": "12155b66-35db-4bf5-b27f-08de61484524"
+}, {
+    "rating": 27.2957,
+    "points": 0,
+    "playerId": "2b418cb8-ccd6-4a75-8971-f8ea19769098"
+}, {
+    "rating": 18.7631,
+    "points": 0,
+    "playerId": "47fbe8ac-e378-41d3-949e-e3b37c6e786f"
+}, {
+    "rating": 37.4628,
+    "points": 0,
+    "playerId": "c86a748c-ce5e-4e46-bed6-674caf3ccddd"
+}, {
+    "rating": 23.9826,
+    "points": 0,
+    "playerId": "13e2b958-a502-4ade-92cd-34c0974402a6"
+}, {
+    "rating": 34.071,
+    "points": 0,
+    "playerId": "1c335581-a2eb-46a7-bf7e-a6d21bfbfb48"
+}, {
+    "rating": 25.2367,
+    "points": 0,
+    "playerId": "f45676db-0bbf-44d2-863f-a188964a7bfe"
+}, {
+    "rating": 31.3383,
+    "points": 0,
+    "playerId": "e9a20010-cbc2-439b-834d-e52415a0fab2"
+}, {
+    "rating": 31.9092,
+    "points": 0,
+    "playerId": "74c3eafe-85f8-47c4-a36b-95808dc6d57b"
+}, {
+    "rating": 21.5173,
+    "points": 0,
+    "playerId": "6c7b9821-178c-43f8-a226-61db7d7c3668"
+}, {
+    "rating": 18.3478,
+    "points": 0,
+    "playerId": "d4241d1f-13fb-4d0b-90c5-b55b886e108d"
+}, {
+    "rating": 23.9107,
+    "points": 0,
+    "playerId": "59d6e022-e6fb-405c-8e96-3687ad55add3"
+}, {
+    "rating": 31.7176,
+    "points": 0,
+    "playerId": "dfab01e6-65f9-4886-b133-4ca40be1310d"
+}, {
+    "rating": 35.4704,
+    "points": 0,
+    "playerId": "ec6055d5-aa18-43ef-b37b-4895f63543a7"
+}, {
+    "rating": 23.0472,
+    "points": 0,
+    "playerId": "a5464aec-6ea6-4b31-a7aa-29e6e18a2d60"
+}, {
+    "rating": 29.7888,
+    "points": 0,
+    "playerId": "547190f0-c351-465d-a299-e0c22460ff44"
+}, {
+    "rating": 10.1299,
+    "points": 0,
+    "playerId": "6d7c5ca6-6760-4eae-a43b-ac5c13622c42"
+}, {
+    "rating": 16.2989,
+    "points": 0,
+    "playerId": "2c8422b9-4b1e-4877-a275-2cb557b027b5"
+}, {
+    "rating": 29.4549,
+    "points": 0,
+    "playerId": "036de8c7-1dea-413b-9cdd-bcc773fef890"
+}, {
+    "rating": 27.6815,
+    "points": 0,
+    "playerId": "f21479a5-a1ff-4a8b-bd64-1932cb5b5666"
+}, {
+    "rating": 28.1701,
+    "points": 0,
+    "playerId": "0e7e51bc-d7b3-481b-8895-942521e3408a"
+}, {
+    "rating": 23.4775,
+    "points": 0,
+    "playerId": "89850c9a-ff69-44cd-85fa-5a2be93cf1ae"
+}, {
+    "rating": 21.4649,
+    "points": 0,
+    "playerId": "cb2c25d6-4cad-4d1c-b329-d79494d43728"
+}, {
+    "rating": 24.4626,
+    "points": 0,
+    "playerId": "5b8dabce-beb0-4726-98b8-623ed06b106e"
+}, {
+    "rating": 23.9594,
+    "points": 0,
+    "playerId": "906119b6-782f-4ac7-a5bd-3289306e6422"
+}, {
+    "rating": 11.7114,
+    "points": 0,
+    "playerId": "06770d79-ddde-49f3-bcf8-24273e8d63fd"
+}, {
+    "rating": 30.4347,
+    "points": 0,
+    "playerId": "631004b8-3cc3-4ab1-9927-3f1e5953302a"
+}, {
+    "rating": 24.0518,
+    "points": 0,
+    "playerId": "09783ff3-c3e9-4fcb-ba57-3e435cc39739"
+}, {
+    "rating": 20.4673,
+    "points": 0,
+    "playerId": "b2a27bc7-8458-4ba1-879c-bdca9bc9c59e"
+}, {
+    "rating": 24.3575,
+    "points": 0,
+    "playerId": "7363854f-3421-4098-b99c-7ff8daf11455"
+}, {
+    "rating": 31.6829,
+    "points": 0,
+    "playerId": "8a51a28c-be5c-4941-ac22-5952c699bcf3"
+}, {
+    "rating": 18.5328,
+    "points": 0,
+    "playerId": "a55ac0c8-b309-4cd6-93ff-29f38f9b5eed"
+}, {
+    "rating": 33.1743,
+    "points": 0,
+    "playerId": "4a688d47-2139-4923-8c7b-3fa2b314d753"
+}, {
+    "rating": 22.8419,
+    "points": 0,
+    "playerId": "5fe67b88-b3a9-43a9-be23-8988b4457857"
+}, {
+    "rating": 33.0417,
+    "points": 0,
+    "playerId": "efb7ed58-3f49-423f-b14e-387e971043be"
+}, {
+    "rating": 26.9788,
+    "points": 0,
+    "playerId": "14b19041-5af1-41f0-a16c-a61981d1a792"
+}, {
+    "rating": 42.1722,
+    "points": 0,
+    "playerId": "c6639aa2-0f01-473b-88a2-08bd4b2beec1"
+}, {
+    "rating": 22.506,
+    "points": 0,
+    "playerId": "0f607d32-da21-49de-b34a-5699272ddef6"
+}, {
+    "rating": 25.5909,
+    "points": 0,
+    "playerId": "d57422b5-190b-4746-89ed-b3d02c126e14"
+}, {
+    "rating": 21.6556,
+    "points": 0,
+    "playerId": "14e522e4-ed37-4a46-a1fd-8121844541e9"
+}, {
+    "rating": 24.1432,
+    "points": 0,
+    "playerId": "e520b5ef-c2d1-4b18-b86b-ff364ff1ecc4"
+}, {
+    "rating": 20.2084,
+    "points": 0,
+    "playerId": "1a89ce1e-ed62-40be-aa76-1892df8de05b"
+}, {
+    "rating": 5.4374,
+    "points": 0,
+    "playerId": "fe7cfe05-4df9-4595-9556-469f96b0d413"
+}, {
+    "rating": 28.545,
+    "points": 0,
+    "playerId": "9191fcbf-90d6-4264-9aac-e2c378d56364"
+}, {
+    "rating": 30.9828,
+    "points": 0,
+    "playerId": "cb203a18-cc63-4178-8fe2-e8f1341cf690"
+}, {
+    "rating": 24.9505,
+    "points": 0,
+    "playerId": "fa53f2a3-066c-4786-8a6b-737e56d5731f"
+}, {
+    "rating": 11.4841,
+    "points": 0,
+    "playerId": "d79012a5-03ad-46db-9174-0fd9f266cea0"
+}, {
+    "rating": 13.1977,
+    "points": 0,
+    "playerId": "a4ec9901-bfae-4268-9b16-16ef900552dc"
+}, {
+    "rating": 30.4792,
+    "points": 0,
+    "playerId": "95226415-c5b8-4e99-a3ca-1a0c060ea6fc"
+}, {
+    "rating": 11.4136,
+    "points": 0,
+    "playerId": "f0b9804e-ad83-41c9-8c9a-07e5f9672fd2"
+}, {
+    "rating": 14.6131,
+    "points": 0,
+    "playerId": "0fc51df2-c9f0-457d-a0ee-b99156c0fc4b"
+}, {
+    "rating": 31.1763,
+    "points": 0,
+    "playerId": "f6bd66ae-df14-4951-9843-b243a7dd5364"
+}, {
+    "rating": 15.9122,
+    "points": 0,
+    "playerId": "4b0d474e-d3c6-4cc9-81c5-935f8b42a437"
+}, {
+    "rating": 28.1119,
+    "points": 0,
+    "playerId": "51b2162f-e0e2-4892-9985-e039b3078b17"
+}, {
+    "rating": 35.2979,
+    "points": 0,
+    "playerId": "58c4f8c2-4c15-4b94-aeb4-dec60833c46d"
+}, {
+    "rating": 11.0804,
+    "points": 0,
+    "playerId": "d1297112-e74c-483e-bfa8-e58e0ffb2b8f"
+}, {
+    "rating": 7.7913,
+    "points": 0,
+    "playerId": "9869cb71-faf1-4218-9e72-7d63fa5df6c6"
+}, {
+    "rating": 18.9925,
+    "points": 0,
+    "playerId": "6abfef82-d1bc-4ff7-af6e-e13caa7b636e"
+}, {
+    "rating": 13.9817,
+    "points": 0,
+    "playerId": "75b46e9b-415a-41a7-9f20-0a78ff576330"
+}, {
+    "rating": 41.3641,
+    "points": 0,
+    "playerId": "c478f28d-59f1-4563-b74a-00779c38f685"
+}, {
+    "rating": 26.8906,
+    "points": 0,
+    "playerId": "d83a9fdf-fa9d-41c4-aa6a-032eff8a254b"
+}, {
+    "rating": 27.8755,
+    "points": 0,
+    "playerId": "5e45b7e1-9dcf-470b-8f44-4ca96d4c3173"
+}, {
+    "rating": 16.1273,
+    "points": 0,
+    "playerId": "6866bf83-c53b-42ee-b4b4-68eb85c7981a"
+}, {
+    "rating": 16.7604,
+    "points": 0,
+    "playerId": "3fd42a5b-63dc-4319-860b-332e1517556b"
+}, {
+    "rating": 23.0993,
+    "points": 0,
+    "playerId": "f7ccfe07-e994-4255-866f-a1a35f76a73f"
+}, {
+    "rating": 16.7893,
+    "points": 0,
+    "playerId": "06324145-59c6-490b-acc1-4fed85ce3412"
+}, {
+    "rating": 30.863,
+    "points": 0,
+    "playerId": "018a0bd7-1615-4d48-9619-432bf9bbee6c"
+}, {
+    "rating": 30.1284,
+    "points": 0,
+    "playerId": "f8d358d6-286e-4fc1-930b-7028ff8d8da6"
+}, {
+    "rating": 23.38,
+    "points": 0,
+    "playerId": "69d53798-b427-4cea-96b0-0095385ff96b"
+}, {
+    "rating": 25.9773,
+    "points": 0,
+    "playerId": "f58499ca-6a61-4fc1-a2f2-69b04a352d32"
+}, {
+    "rating": 37.6939,
+    "points": 0,
+    "playerId": "f1d1cf31-622d-46f0-a470-7d70b5de3651"
+}, {
+    "rating": 25.9566,
+    "points": 0,
+    "playerId": "c5b4a56b-8afd-414c-94c1-33e1fd0581e9"
+}, {
+    "rating": 28.248,
+    "points": 0,
+    "playerId": "cbd90a51-e91c-403d-9932-f42b1443f10e"
+}, {
+    "rating": 28.6033,
+    "points": 0,
+    "playerId": "f1996f5a-32b2-460c-8cc4-86d4dfb13239"
+}, {
+    "rating": 22.6006,
+    "points": 0,
+    "playerId": "5fcef871-843a-4da0-b3c0-0581d0ac80be"
+}, {
+    "rating": 29.4015,
+    "points": 0,
+    "playerId": "4ff7ea8e-c71f-4ee2-a9e9-366b1e1a9b2f"
+}, {
+    "rating": 25.7723,
+    "points": 0,
+    "playerId": "6e9ae102-2ce0-4c98-8d9a-796a2a5fcfac"
+}, {
+    "rating": 9.8419,
+    "points": 0,
+    "playerId": "6e3e4791-51b3-4119-821a-22cd6493267d"
+}, {
+    "rating": 29.8893,
+    "points": 0,
+    "playerId": "bb9dc372-18f9-4d1d-85c2-c995cf230ff6"
+}, {
+    "rating": 28.5888,
+    "points": 0,
+    "playerId": "68756c64-a50a-4d7b-b2b2-68a854490c2e"
+}, {
+    "rating": 26.804,
+    "points": 0,
+    "playerId": "12b9ea5c-b17d-4a2f-94e2-2e96bde44939"
+}, {
+    "rating": 15.4077,
+    "points": 0,
+    "playerId": "d83097f0-9c8a-4b6a-a652-dfe27b2b74bd"
+}, {
+    "rating": 19.7261,
+    "points": 0,
+    "playerId": "51a2b87b-66a1-4274-a387-797b7aeaac4d"
+}, {
+    "rating": 29.5723,
+    "points": 0,
+    "playerId": "e6e1fcef-b37d-44bd-9bca-458dfaf87116"
+}, {
+    "rating": 9.6688,
+    "points": 0,
+    "playerId": "c034278f-3dbe-4887-9589-4aac70c1322c"
+}, {
+    "rating": 32.3615,
+    "points": 0,
+    "playerId": "9dc15c61-435c-4ad7-bdeb-7bd219a521cb"
+}, {
+    "rating": 20.8335,
+    "points": 0,
+    "playerId": "b85eb1a8-9745-4547-9a73-ed947154faae"
+}, {
+    "rating": 29.6478,
+    "points": 0,
+    "playerId": "b593fcb5-bed0-431c-ad3a-5ecdb6df01af"
+}, {
+    "rating": 28.5524,
+    "points": 0,
+    "playerId": "9dcf8d47-47e3-46a4-912c-adce92699d1c"
+}, {
+    "rating": 34.0906,
+    "points": 0,
+    "playerId": "da1530fb-ab21-4e98-bb4c-ea0e14d77a69"
+}, {
+    "rating": 30.7158,
+    "points": 0,
+    "playerId": "a56e031b-ad1d-482a-b5de-62b14c6ebfc2"
+}, {
+    "rating": 28.366,
+    "points": 0,
+    "playerId": "dac236a4-c6f5-4ea8-8df3-66ba9c7ce2d7"
+}, {
+    "rating": 21.748,
+    "points": 0,
+    "playerId": "11fc8e06-2fc2-4187-8049-ab884f2e72fb"
+}, {
+    "rating": 29.5566,
+    "points": 0,
+    "playerId": "ffb6a140-014f-40b0-9734-5747b751c15c"
+}, {
+    "rating": 22.5802,
+    "points": 0,
+    "playerId": "d9aacf14-00dd-4eb0-b186-5dbba93371cc"
+}, {
+    "rating": 18.0254,
+    "points": 0,
+    "playerId": "b60cf6ee-81b9-4b2e-92cd-a35742bf0f5b"
+}, {
+    "rating": 27.263,
+    "points": 0,
+    "playerId": "942e08f0-63a5-4d0b-9520-4fb6b1ab653d"
+}, {
+    "rating": 38.8586,
+    "points": 0,
+    "playerId": "eb49ccc4-7c9e-46be-a200-b33fd43fabdd"
+}, {
+    "rating": 18.8333,
+    "points": 0,
+    "playerId": "220ccb11-c7b1-4189-a058-146df64500e6"
+}, {
+    "rating": 19.3931,
+    "points": 0,
+    "playerId": "b3ceebf6-177e-4ebf-b597-ebb5b72982e0"
+}, {
+    "rating": 27.0992,
+    "points": 0,
+    "playerId": "6974e865-5ba3-45fa-b986-36b652f15cf5"
+}, {
+    "rating": 33.1336,
+    "points": 0,
+    "playerId": "515a64ee-9319-4a28-96b1-5c7f3169f969"
+}, {
+    "rating": 45.6534,
+    "points": 0,
+    "playerId": "87d4c4a4-f959-4396-927a-4d170cfdf943"
+}, {
+    "rating": 27.2154,
+    "points": 0,
+    "playerId": "94de52d2-926f-4b45-a2fd-aedc7efa7ed3"
+}, {
+    "rating": 31.0104,
+    "points": 0,
+    "playerId": "a2e6350f-e509-4512-889e-23ecf885a98c"
+}, {
+    "rating": 27.092,
+    "points": 0,
+    "playerId": "462a7849-4564-40cc-8b06-09305e8d3e70"
+}, {
+    "rating": 34.9454,
+    "points": 0,
+    "playerId": "c05765f0-1912-440b-9ae1-bd2a01cdce9c"
+}, {
+    "rating": 30.3793,
+    "points": 0,
+    "playerId": "daf877c3-edf4-4334-aa10-fc8910ea5e66"
+}, {
+    "rating": 29.4415,
+    "points": 0,
+    "playerId": "5cf563b1-4786-4bbc-be03-f3b968c9b8d8"
+}, {
+    "rating": 22.4265,
+    "points": 0,
+    "playerId": "e3b84959-3c6e-40a9-bcdb-51d35321b604"
+}, {
+    "rating": 22.7278,
+    "points": 0,
+    "playerId": "bca66ac5-abf2-4682-bc15-7a21e1b3b414"
+}, {
+    "rating": 26.1542,
+    "points": 0,
+    "playerId": "a32b2a03-030e-43b8-b33e-e95b4b0d4bc4"
+}, {
+    "rating": 37.9012,
+    "points": 0,
+    "playerId": "b3f6f8f8-90e7-45ab-ac81-676719d05204"
+}, {
+    "rating": 27.893,
+    "points": 0,
+    "playerId": "9ebd01bc-62e3-42b6-9238-622e843aac36"
+}, {
+    "rating": 33.3431,
+    "points": 0,
+    "playerId": "aad6bad5-50b0-4caa-abea-7998f7a7c520"
+}, {
+    "rating": 25.9944,
+    "points": 0,
+    "playerId": "41e5583b-7b48-496c-a720-9fd17d212341"
+}, {
+    "rating": 28.0233,
+    "points": 0,
+    "playerId": "fb5033d3-d39b-4645-bedb-4b7889eb94bd"
+}, {
+    "rating": 37.8274,
+    "points": 0,
+    "playerId": "18736169-a0cf-4c50-ab50-f29be3d2f8f7"
+}, {
+    "rating": 18.2706,
+    "points": 0,
+    "playerId": "9bfecbcb-718f-448c-9abf-56c96b982b18"
+}, {
+    "rating": 35.7745,
+    "points": 0,
+    "playerId": "3412a457-aab2-46dd-950b-f27d30dfd299"
+}, {
+    "rating": 14.4756,
+    "points": 0,
+    "playerId": "9e24c8b9-3758-448b-9255-b5d239f8787d"
+}, {
+    "rating": 31.6445,
+    "points": 0,
+    "playerId": "4a99a115-0f4d-45c3-ab16-b1f6e139952d"
+}, {
+    "rating": 26.6788,
+    "points": 0,
+    "playerId": "30738f22-d15f-4a94-890e-7abdd21ea011"
+}, {
+    "rating": 30.0299,
+    "points": 0,
+    "playerId": "02577e5e-568b-44b2-a42c-bb1b047649b9"
+}, {
+    "rating": 31.9884,
+    "points": 0,
+    "playerId": "14251aaf-7457-4ff7-b505-76453a7cd404"
+}, {
+    "rating": 37.5101,
+    "points": 0,
+    "playerId": "fa81ce5b-fccd-48f6-bc92-aa5fabb4dfdc"
+}, {
+    "rating": 27.2684,
+    "points": 0,
+    "playerId": "13d9ddd1-8355-417c-8b87-4f38cb250b16"
+}, {
+    "rating": 13.8295,
+    "points": 0,
+    "playerId": "e7efafa0-2a1d-4cf8-be26-1a66931c15c5"
+}, {
+    "rating": 24.1797,
+    "points": 0,
+    "playerId": "880a9a74-2c15-49d6-bae8-deb1aab7e7cf"
+}, {
+    "rating": 29.5717,
+    "points": 0,
+    "playerId": "8dd55ece-baa5-4239-a415-160b793021c4"
+}, {
+    "rating": 20.4003,
+    "points": 0,
+    "playerId": "42977885-a23b-41ba-911c-deadb4302e59"
+}, {
+    "rating": 27.8265,
+    "points": 0,
+    "playerId": "70301153-d5be-45e6-9d85-84f521d2c689"
+}, {
+    "rating": 30.9677,
+    "points": 0,
+    "playerId": "2e21615d-2f7a-41f8-8471-dc92cca5535e"
+}, {
+    "rating": 12.4705,
+    "points": 0,
+    "playerId": "41191d44-6063-49cc-bd0a-3740b90156af"
+}, {
+    "rating": 25.1555,
+    "points": 0,
+    "playerId": "40dd84e8-09d1-4ff3-94ae-a8f7a33a2dda"
+}, {
+    "rating": 23.8944,
+    "points": 0,
+    "playerId": "44a06b1f-4d45-4aa1-842a-3fe9e7b141d1"
+}, {
+    "rating": 15.6563,
+    "points": 0,
+    "playerId": "17d34f4b-0a88-4c32-8ce9-fbf5c18ba58f"
+}, {
+    "rating": 33.3037,
+    "points": 0,
+    "playerId": "075455d4-afe3-4100-a565-d19f6734a4ae"
+}, {
+    "rating": 29.7161,
+    "points": 0,
+    "playerId": "f06013d0-5c53-4253-a1f2-fb0347157cb1"
+}, {
+    "rating": 17.6993,
+    "points": 0,
+    "playerId": "6925b1a6-a164-4c6b-93fc-5127f390c765"
+}, {
+    "rating": 29.1779,
+    "points": 0,
+    "playerId": "44f7bbbb-ad63-4d5f-b2e0-8961f6cb2c57"
+}, {
+    "rating": 14.1726,
+    "points": 0,
+    "playerId": "319ee18c-6a3e-4757-b9bb-a01f3c57517d"
+}, {
+    "rating": 35.6596,
+    "points": 0,
+    "playerId": "e669cc94-0e72-4c7e-bf76-0fca7ea701b9"
+}, {
+    "rating": 9.7068,
+    "points": 0,
+    "playerId": "5df48447-8305-40eb-bcf3-6c069bcf3aeb"
+}, {
+    "rating": 35.9581,
+    "points": 0,
+    "playerId": "21ad4bf6-3b0e-4974-a27e-229421d32f78"
+}, {
+    "rating": 26.8582,
+    "points": 0,
+    "playerId": "c1c1f1e3-3694-47a1-9c87-82762a34dff2"
+}, {
+    "rating": 35.9838,
+    "points": 0,
+    "playerId": "311ce67c-04c4-4569-bd52-c51e667c227f"
+}, {
+    "rating": 12.8471,
+    "points": 0,
+    "playerId": "54c3029e-40d1-4b23-867d-11a3785adf27"
+}, {
+    "rating": 27.8957,
+    "points": 0,
+    "playerId": "419030d1-8dcb-474f-810d-4d866aa76cb7"
+}, {
+    "rating": 29.0555,
+    "points": 0,
+    "playerId": "ddcf9e4d-4d6a-4caf-9573-5721d18cca41"
+}, {
+    "rating": 15.7719,
+    "points": 0,
+    "playerId": "d9e54e6d-ff1e-4c64-8ca7-31ee29a6d7a3"
+}, {
+    "rating": 17.9591,
+    "points": 0,
+    "playerId": "d97b1ca7-6f7b-4e3f-b36f-35dd6dc77a39"
+}, {
+    "rating": 33.7209,
+    "points": 0,
+    "playerId": "18506478-751f-4455-8c21-db3b3216a124"
+}, {
+    "rating": 11.9926,
+    "points": 0,
+    "playerId": "fb2bf1ac-5205-442a-9929-87070ae67c58"
+}, {
+    "rating": 34.7096,
+    "points": 0,
+    "playerId": "e76d2af8-1e7b-4d17-ad48-b16542c0f335"
+}, {
+    "rating": 44.3527,
+    "points": 0,
+    "playerId": "b9347898-dde9-4694-8c2a-271165f9c9ff"
+}, {
+    "rating": 13.4451,
+    "points": 0,
+    "playerId": "b17de009-19a5-4e27-a3ae-e58fcbbdd38b"
+}, {
+    "rating": 41.9553,
+    "points": 0,
+    "playerId": "392ca225-5317-4487-8a00-847e9fafa472"
+}, {
+    "rating": 18.6925,
+    "points": 0,
+    "playerId": "a5faa407-3f86-4e0e-8108-0d5fa7ed93d7"
+}, {
+    "rating": 25.2688,
+    "points": 0,
+    "playerId": "9a3ef500-fdf5-47fe-b39d-3257360dc250"
+}, {
+    "rating": 28.7381,
+    "points": 0,
+    "playerId": "3ea08eb8-5556-4a1d-90b2-5a7cdf4ae156"
+}, {
+    "rating": 26.5096,
+    "points": 0,
+    "playerId": "18b7bb79-606e-4647-b225-dbb380157908"
+}, {
+    "rating": 23.0551,
+    "points": 0,
+    "playerId": "1d70713d-855a-4c4c-8b77-17ad40054c29"
+}, {
+    "rating": 17.4291,
+    "points": 0,
+    "playerId": "0c088fdc-8d02-4974-991a-47656d2f862e"
+}, {
+    "rating": 37.3681,
+    "points": 0,
+    "playerId": "a6e347c8-9a8c-474f-87b4-c3a78aa57682"
+}, {
+    "rating": 13.3044,
+    "points": 0,
+    "playerId": "0f71acb3-eec0-4eb4-aa0d-dc97e09f4c23"
+}, {
+    "rating": 16.7509,
+    "points": 0,
+    "playerId": "d5d475f5-cf14-4aab-887c-f12c58f759fd"
+}, {
+    "rating": 30.6597,
+    "points": 0,
+    "playerId": "eb57691d-8c53-438c-9888-b401614b2fa5"
+}, {
+    "rating": 9.0612,
+    "points": 0,
+    "playerId": "6297a6b0-2e2a-4ee1-a3c2-89aad8ec1029"
+}, {
+    "rating": 20.6773,
+    "points": 0,
+    "playerId": "dd28f690-4fad-4b10-8295-17122051cc42"
+}, {
+    "rating": 32.3181,
+    "points": 0,
+    "playerId": "a6539173-17ff-42cb-9c98-a016e1a852dd"
+}, {
+    "rating": 30.5728,
+    "points": 0,
+    "playerId": "4810277c-e0a2-4394-9e71-52d8075fda40"
+}, {
+    "rating": 28.8471,
+    "points": 0,
+    "playerId": "50d6af18-5142-40d0-80fe-b5cc92a202cb"
+}, {
+    "rating": 31.4318,
+    "points": 0,
+    "playerId": "0f876357-9fb3-4922-b9ba-607fae62b4d7"
+}, {
+    "rating": 21.7315,
+    "points": 0,
+    "playerId": "2e62c3b4-db76-41c3-bf99-704f80744148"
+}, {
+    "rating": 18.0368,
+    "points": 0,
+    "playerId": "c1fc561c-44f3-429b-84e0-807799733c3d"
+}, {
+    "rating": 31.3517,
+    "points": 0,
+    "playerId": "b8c25eaa-3e95-4a3c-971e-2dc5aa2d01d4"
+}, {
+    "rating": 26.7483,
+    "points": 0,
+    "playerId": "f50cfab8-e14e-43d1-9b09-8b55057cc6b4"
+}, {
+    "rating": 21.3458,
+    "points": 0,
+    "playerId": "c11a8041-d441-4f2a-85ea-6cda29bbd92e"
+}, {
+    "rating": 7.0367,
+    "points": 0,
+    "playerId": "ccb053bc-f89a-417a-bd91-05fc8d528e0b"
+}, {
+    "rating": 34.135,
+    "points": 0,
+    "playerId": "733b3999-7c65-43dd-800b-0475efc9238f"
+}, {
+    "rating": 20.8189,
+    "points": 0,
+    "playerId": "9b8ff1bb-2c10-4059-9562-5abd990c791e"
+}, {
+    "rating": 13.8652,
+    "points": 0,
+    "playerId": "3c1546e4-a516-4ccb-8875-252195e2f7ca"
+}, {
+    "rating": 14.5863,
+    "points": 0,
+    "playerId": "92bf49de-f041-49d7-8328-91a7f568e20a"
+}, {
+    "rating": 22.4508,
+    "points": 0,
+    "playerId": "f6a75738-1bae-496c-a8a3-613d6e91be75"
+}, {
+    "rating": 33.4872,
+    "points": 0,
+    "playerId": "31c72dd6-bf1a-48a5-a84c-e955241b0a77"
+}, {
+    "rating": 14.7644,
+    "points": 0,
+    "playerId": "66430ec7-8102-4be1-83cd-53335d9ce9ef"
+}, {
+    "rating": 19.0312,
+    "points": 0,
+    "playerId": "821f4175-f42d-4e57-ac6d-48ec0ac5a4c6"
+}, {
+    "rating": 31.1709,
+    "points": 0,
+    "playerId": "e116fbd8-5b9b-4800-b566-f48e6a1fada7"
+}, {
+    "rating": 26.4256,
+    "points": 0,
+    "playerId": "068585f3-3e8f-41a1-b24a-71c25377c83e"
+}, {
+    "rating": 26.2352,
+    "points": 0,
+    "playerId": "f8aed6b8-f1c4-4bfe-8197-5effbd7316b1"
+}, {
+    "rating": 30.0929,
+    "points": 0,
+    "playerId": "83bdd041-0fef-4b49-a7c1-8997b789c173"
+}, {
+    "rating": 23.1072,
+    "points": 0,
+    "playerId": "7a320b2c-89ae-438a-a76e-3a0a4a9d2b23"
+}, {
+    "rating": 36.2935,
+    "points": 0,
+    "playerId": "a53f5f73-3b3b-4c0e-99ab-2725e3f613ed"
+}, {
+    "rating": 15.9299,
+    "points": 0,
+    "playerId": "72cf3458-4028-435a-b5f1-9bface779448"
+}, {
+    "rating": 18.1809,
+    "points": 0,
+    "playerId": "95813238-2f29-435d-bf6a-ccbe6bb1162f"
+}, {
+    "rating": 13.7734,
+    "points": 0,
+    "playerId": "f7854424-9e23-474a-8bc2-de56b11d357f"
+}, {
+    "rating": 31.527,
+    "points": 0,
+    "playerId": "63e0b885-b3d6-484c-a524-2dd4e11a99df"
+}, {
+    "rating": 15.9683,
+    "points": 0,
+    "playerId": "39137431-3413-4073-a92b-336d71f55961"
+}, {
+    "rating": 22.5951,
+    "points": 0,
+    "playerId": "4ef5b943-f482-4800-a47a-942e0621594c"
+}, {
+    "rating": 19.2262,
+    "points": 0,
+    "playerId": "a0fe09ee-c2b7-412f-86c4-042b1e94b51c"
+}, {
+    "rating": 29.8329,
+    "points": 0,
+    "playerId": "81e88705-2c4d-4adb-abd5-e49e4cca04dc"
+}, {
+    "rating": 26.7738,
+    "points": 0,
+    "playerId": "c436bd77-360f-4ada-a360-36860872e67c"
+}, {
+    "rating": 24.0402,
+    "points": 0,
+    "playerId": "c91d982d-e2cd-4988-aae7-3475c4cf6d39"
+}, {
+    "rating": 27.5296,
+    "points": 0,
+    "playerId": "fd6d7a70-8692-4a67-b496-92045959d91f"
+}, {
+    "rating": 33.544,
+    "points": 0,
+    "playerId": "facf3119-21eb-4c22-9beb-f00be5b04cd4"
+}, {
+    "rating": 42.2504,
+    "points": 0,
+    "playerId": "3c2bd1a4-9de9-4ba9-aa54-7231cea2d093"
+}, {
+    "rating": 18.6302,
+    "points": 0,
+    "playerId": "f68a0fb2-1b8e-4904-95aa-3d01b2050938"
+}, {
+    "rating": 21.5417,
+    "points": 0,
+    "playerId": "8ba3aed1-d8b2-4100-b4b5-472c45a12c58"
+}, {
+    "rating": 25.7993,
+    "points": 0,
+    "playerId": "d4eb4565-212a-48e7-bfbe-1115bc6fa131"
+}, {
+    "rating": 31.0262,
+    "points": 0,
+    "playerId": "e5f92416-e2c1-43aa-81c1-8ae8a8dbf674"
+}, {
+    "rating": 20.9109,
+    "points": 0,
+    "playerId": "5a8ebd1d-b092-4c41-96f5-cd6e314bc903"
+}, {
+    "rating": 30.2983,
+    "points": 0,
+    "playerId": "42243488-9e63-4339-a300-8d54e3b00135"
+}, {
+    "rating": 33.4479,
+    "points": 0,
+    "playerId": "2fc0b74d-39d0-48e7-bc2a-6fd9d1c60810"
+}, {
+    "rating": 35.8917,
+    "points": 0,
+    "playerId": "2bc1d3dd-0960-42ad-9648-36daecd6f822"
+}, {
+    "rating": 29.9864,
+    "points": 0,
+    "playerId": "b86f9a83-c349-489b-b8b0-0eab8f3502e6"
+}, {
+    "rating": 5.9515,
+    "points": 0,
+    "playerId": "5bb9ec50-cd30-492f-ba75-7715030d201b"
+}, {
+    "rating": 30.9571,
+    "points": 0,
+    "playerId": "edc870b3-d19f-4190-ad1e-8937cf76cfcf"
+}, {
+    "rating": 29.6479,
+    "points": 0,
+    "playerId": "1b214990-bdf4-4818-bb79-d66984b2788d"
+}, {
+    "rating": 22.4675,
+    "points": 0,
+    "playerId": "dccfd41c-b4a8-48a1-8bf9-279a3499676b"
+}, {
+    "rating": 37.0297,
+    "points": 0,
+    "playerId": "292717c2-72d1-4e89-9268-0eb91531dc4b"
+}, {
+    "rating": 16.962,
+    "points": 0,
+    "playerId": "f3ae1115-e4d4-4cf8-8125-cbdd236bfbd4"
+}, {
+    "rating": 29.2563,
+    "points": 0,
+    "playerId": "9a519d04-ebe5-4d26-8a7b-ee34e2c1d566"
+}, {
+    "rating": 39.0733,
+    "points": 0,
+    "playerId": "478b0f2a-3309-4b7e-aab6-2920cf618f37"
+}, {
+    "rating": 28.9849,
+    "points": 0,
+    "playerId": "4590cfe6-ba67-49b7-bf20-f5ea83aba307"
+}, {
+    "rating": 25.0175,
+    "points": 0,
+    "playerId": "7f8562a6-34a5-40f8-b86c-789738d0d395"
+}, {
+    "rating": 28.7928,
+    "points": 0,
+    "playerId": "fdd365cf-9123-4720-aefc-499c7b12f4cb"
+}, {
+    "rating": 31.7185,
+    "points": 0,
+    "playerId": "7cd10a1d-f730-44aa-85b0-f88c2ae20c26"
+}, {
+    "rating": 20.4319,
+    "points": 0,
+    "playerId": "c28b0785-77c9-4a19-b93c-14bd3c3eb1d9"
+}, {
+    "rating": 16.7393,
+    "points": 0,
+    "playerId": "288e7663-fdc0-4bd3-9fb5-7b52d582b297"
+}, {
+    "rating": 24.3484,
+    "points": 0,
+    "playerId": "d2742b1a-daa7-4b1c-a4bd-7e45ea6a903d"
+}, {
+    "rating": 12.7455,
+    "points": 0,
+    "playerId": "f9895991-3586-4cbb-8360-19f48e586bb1"
+}, {
+    "rating": 17.8507,
+    "points": 0,
+    "playerId": "22be9d44-f3f1-42d3-8d3b-2112bbd8c926"
+}, {
+    "rating": 38.4448,
+    "points": 0,
+    "playerId": "cd67e4d9-365f-413b-8f65-521c47ed8389"
+}, {
+    "rating": 13.366,
+    "points": 0,
+    "playerId": "a974f004-7229-45ec-9c36-ec84e37af6c4"
+}, {
+    "rating": 45.502,
+    "points": 0,
+    "playerId": "d050b416-4d42-48e2-ae8b-f4d145fc9a08"
+}, {
+    "rating": 18.3606,
+    "points": 0,
+    "playerId": "4dde5621-9d07-4b04-9715-28d1230ab41c"
+}, {
+    "rating": 8.9072,
+    "points": 0,
+    "playerId": "50d117b0-7a3b-4ef0-8378-019b28950749"
+}, {
+    "rating": 28.8628,
+    "points": 0,
+    "playerId": "de7b2208-7940-4edd-9275-41c68b33b5e2"
+}, {
+    "rating": 43.286,
+    "points": 0,
+    "playerId": "ff7569f1-40a5-406e-9337-acf0b1c6d85d"
+}, {
+    "rating": 26.5683,
+    "points": 0,
+    "playerId": "89335121-93d4-44dd-a4eb-eb4a598643f8"
+}, {
+    "rating": 8.5954,
+    "points": 0,
+    "playerId": "d91dd0a5-b7ed-42b3-a5a0-6167b2ba5daf"
+}, {
+    "rating": 21.5203,
+    "points": 0,
+    "playerId": "c1bdaaa5-fca2-4476-a2d9-39c607c13336"
+}, {
+    "rating": 28.5479,
+    "points": 0,
+    "playerId": "48a5337c-17b0-40e6-b53f-7a58691326ff"
+}, {
+    "rating": 36.4309,
+    "points": 0,
+    "playerId": "4e54c97e-023b-498c-a218-727b477abde5"
+}, {
+    "rating": 23.6377,
+    "points": 0,
+    "playerId": "509017f7-0690-4e7a-b6d0-9a17005d259f"
+}, {
+    "rating": 27.7926,
+    "points": 0,
+    "playerId": "1aa3b476-aead-4b17-b6d3-51e95391dfff"
+}, {
+    "rating": 35.1885,
+    "points": 0,
+    "playerId": "94409509-920c-4ddc-a36a-888a6753bc92"
+}, {
+    "rating": 17.6241,
+    "points": 0,
+    "playerId": "2af09480-4c2b-411b-9d53-63a3ae3931c0"
+}, {
+    "rating": 23.0246,
+    "points": 0,
+    "playerId": "35365e1e-cb07-4646-96b7-9ee362b25c7e"
+}, {
+    "rating": 37.0384,
+    "points": 0,
+    "playerId": "a1367c74-ffdb-42bc-a95c-127c6c304462"
+}, {
+    "rating": 40.5401,
+    "points": 0,
+    "playerId": "b8e2f553-8c5e-44ae-aa68-8b96b2130012"
+}, {
+    "rating": 18.1089,
+    "points": 0,
+    "playerId": "138d361d-cfee-4020-bd1a-6d1740718a8a"
+}, {
+    "rating": 28.2143,
+    "points": 0,
+    "playerId": "bfbfb195-d636-4e8c-be23-2918e758c428"
+}, {
+    "rating": 11.0622,
+    "points": 0,
+    "playerId": "665a9b2d-ba15-4752-9af2-9deb8abf9f7a"
+}, {
+    "rating": 24.3914,
+    "points": 0,
+    "playerId": "6fbb6f0e-af19-4c0e-94da-921bd2e88228"
+}, {
+    "rating": 36.6445,
+    "points": 0,
+    "playerId": "33be7608-74bd-469a-93e4-b3bc62f8aa23"
+}, {
+    "rating": 20.0638,
+    "points": 0,
+    "playerId": "d94b866c-41bf-448a-967c-0e586d78f2d6"
+}, {
+    "rating": 30.4239,
+    "points": 0,
+    "playerId": "ef5eff25-d002-450d-b475-47ca0e41ee8c"
+}, {
+    "rating": 25.1793,
+    "points": 0,
+    "playerId": "3ece0019-90fb-4fcc-9e98-30781417625e"
+}, {
+    "rating": 24.6216,
+    "points": 0,
+    "playerId": "85e9005e-d356-45f3-8fdb-fa68b61fdde3"
+}, {
+    "rating": 30.7824,
+    "points": 0,
+    "playerId": "bd3de293-f4da-4a91-aa73-55be121f8e44"
+}, {
+    "rating": 38.7348,
+    "points": 0,
+    "playerId": "afd5b2dc-f2ff-4199-b1e8-32cb2ef86fa1"
+}, {
+    "rating": 31.3065,
+    "points": 0,
+    "playerId": "ca395e93-68f9-4bc9-93e7-f7d941db55b6"
+}, {
+    "rating": 23.59,
+    "points": 0,
+    "playerId": "9e8e1883-bfc7-4584-9984-ba4ca70a5f27"
+}, {
+    "rating": 25.6603,
+    "points": 0,
+    "playerId": "98573f2f-f7f4-4fd2-b93e-f23341e330c8"
+}, {
+    "rating": 22.0242,
+    "points": 0,
+    "playerId": "0eb8212c-741a-4b8a-9065-615625f8f2c4"
+}, {
+    "rating": 2.2877,
+    "points": 0,
+    "playerId": "5f8009b9-3717-4b43-b7aa-c2fa94186848"
+}, {
+    "rating": 33.3365,
+    "points": 0,
+    "playerId": "d33febc5-67c9-45f1-9d7e-77812f099a02"
+}, {
+    "rating": 33.0428,
+    "points": 0,
+    "playerId": "ee835039-0561-4a65-9f13-a5869c554361"
+}, {
+    "rating": 34.0082,
+    "points": 0,
+    "playerId": "e71e6865-f158-492f-a236-7685036584c0"
+}, {
+    "rating": 29.43,
+    "points": 0,
+    "playerId": "f746209c-233c-4ae2-a781-b0994ff98ddd"
+}, {
+    "rating": 45.2726,
+    "points": 0,
+    "playerId": "ac9afb50-86dd-4d03-8f20-c27ca89a6504"
+}, {
+    "rating": 6.5441,
+    "points": 0,
+    "playerId": "8c57422b-5c10-4093-8e86-bf6722154a9d"
+}, {
+    "rating": 36.3064,
+    "points": 0,
+    "playerId": "83396fa7-4535-4847-85a3-946d3c015dd1"
+}, {
+    "rating": 11.7217,
+    "points": 0,
+    "playerId": "164a3535-d809-4b39-8ca6-2a757d4b7d94"
+}, {
+    "rating": 22.4888,
+    "points": 0,
+    "playerId": "16e3c70c-49a2-4c9a-9fb0-5669403f1c66"
+}, {
+    "rating": 32.3293,
+    "points": 0,
+    "playerId": "5e2d8e5e-66e5-4011-a5c9-e1dfa8686967"
+}, {
+    "rating": 36.4633,
+    "points": 0,
+    "playerId": "5cd2a49b-9c31-4f34-9839-deac7e73a4d9"
+}, {
+    "rating": 18.15,
+    "points": 0,
+    "playerId": "4e46396a-e64b-4b46-97f7-15d74fd22d5e"
+}, {
+    "rating": 13.2361,
+    "points": 0,
+    "playerId": "14229c11-b57b-4bf9-b078-703573f4f5b2"
+}, {
+    "rating": 8.7144,
+    "points": 0,
+    "playerId": "bfc59578-5f5b-4448-9f81-b270c8957ccd"
+}, {
+    "rating": 34.7306,
+    "points": 0,
+    "playerId": "ae51d5d2-2108-4038-ab71-e53720fbad0d"
+}, {
+    "rating": 27.7998,
+    "points": 0,
+    "playerId": "651b7180-f1a8-4ae7-a47e-d78528696afa"
+}, {
+    "rating": 33.2267,
+    "points": 0,
+    "playerId": "d81920d2-713f-4826-ae11-ff95f01363c3"
+}, {
+    "rating": 18.6232,
+    "points": 0,
+    "playerId": "9ad73501-257d-4f78-9a47-f938cdd1eee9"
+}, {
+    "rating": 32.1825,
+    "points": 0,
+    "playerId": "f4886e7d-ede3-44b8-988a-42e9389010b6"
+}, {
+    "rating": 31.0089,
+    "points": 0,
+    "playerId": "07742bf1-2642-4ded-bf33-9ab8d89d0a53"
+}, {
+    "rating": 17.5156,
+    "points": 0,
+    "playerId": "aa8f4188-ebf7-4111-9e48-93c26b877ab2"
+}, {
+    "rating": 36.1913,
+    "points": 0,
+    "playerId": "c257b479-18a1-406d-ba5e-9194b85cc35e"
+}, {
+    "rating": 22.1421,
+    "points": 0,
+    "playerId": "2a178232-55cf-46f6-a06a-3a0b6e2094ac"
+}, {
+    "rating": 19.1217,
+    "points": 0,
+    "playerId": "2b2c303b-86d6-4a83-9ef8-0b6a0e5de9fd"
+}, {
+    "rating": 16.7297,
+    "points": 0,
+    "playerId": "8b4b9b2b-e260-410c-a146-0dfb5ff10d66"
+}, {
+    "rating": 18.0786,
+    "points": 0,
+    "playerId": "12432951-1b7c-4c71-937c-7785d354023a"
+}, {
+    "rating": 27.5813,
+    "points": 0,
+    "playerId": "4de49b2e-73e2-429e-b412-3af9866f64c1"
+}, {
+    "rating": 44.9457,
+    "points": 0,
+    "playerId": "b929fc2b-18b8-4efd-920f-200bf0f6ccd2"
+}, {
+    "rating": 18.4669,
+    "points": 0,
+    "playerId": "aa493437-46ed-4f1f-876d-881d7d72dbde"
+}, {
+    "rating": 37.2423,
+    "points": 0,
+    "playerId": "5b1c6f90-450e-44dc-90df-e3463fc1d5c0"
+}, {
+    "rating": 23.0853,
+    "points": 0,
+    "playerId": "c6bd40b7-5ec8-4c4f-95ba-287da94844d0"
+}, {
+    "rating": 35.8663,
+    "points": 0,
+    "playerId": "4c43b244-b5ad-4587-9b10-7023c29264eb"
+}, {
+    "rating": 19.5648,
+    "points": 0,
+    "playerId": "04d64ebd-e617-4516-8c2d-8452ac25b0d6"
+}, {
+    "rating": 20.7997,
+    "points": 0,
+    "playerId": "faa36ddc-37f0-4e48-a459-12b57f2601e2"
+}, {
+    "rating": 14.7371,
+    "points": 0,
+    "playerId": "4b5428cc-8422-4ee8-81c9-ed68fe152eb2"
+}, {
+    "rating": 32.4949,
+    "points": 0,
+    "playerId": "50450a06-22b9-44e5-b28a-4103207473b5"
+}, {
+    "rating": 19.0914,
+    "points": 0,
+    "playerId": "fe31fe3b-7286-44d0-976c-997c1fddd97f"
+}, {
+    "rating": 17.9959,
+    "points": 0,
+    "playerId": "81e93698-8b22-4c9a-a1ee-9262b7a66ad1"
+}, {
+    "rating": 28.748,
+    "points": 0,
+    "playerId": "b576ff3a-e3b4-46d4-974c-a47d775d849e"
+}, {
+    "rating": 8.4735,
+    "points": 0,
+    "playerId": "00bb0a0d-1a94-436f-9104-fce80c5ebf64"
+}, {
+    "rating": 26.7967,
+    "points": 0,
+    "playerId": "84465c4e-f850-4d46-80dd-b26f64b99dde"
+}, {
+    "rating": 33.7831,
+    "points": 0,
+    "playerId": "d8cb3912-a6c6-4124-b620-f6e06e664d91"
+}, {
+    "rating": 35.4755,
+    "points": 0,
+    "playerId": "c3fb7b25-8b8b-4857-982a-852d5e03d55b"
+}, {
+    "rating": 23.2331,
+    "points": 0,
+    "playerId": "342c4316-77bd-4e67-8e9f-188dcc5bd982"
+}, {
+    "rating": 29.8303,
+    "points": 0,
+    "playerId": "c1a69bdf-c532-4870-9eed-09e8af665472"
+}, {
+    "rating": 34.9098,
+    "points": 0,
+    "playerId": "e2e536a1-fd00-4e8f-973d-417d8435bd4f"
+}, {
+    "rating": 29.1559,
+    "points": 0,
+    "playerId": "f20f9267-8107-4edf-9847-eb22f59517eb"
+}, {
+    "rating": 27.8167,
+    "points": 0,
+    "playerId": "40453356-fe38-43c7-8a0c-012b80f8107c"
+}, {
+    "rating": 19.7543,
+    "points": 0,
+    "playerId": "856ee9fd-28d3-459d-913c-b618ae1e1a3b"
+}]
