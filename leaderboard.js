@@ -4,6 +4,7 @@ var Leaderboard = function (config, players) {
     this.config = config;
 
     this.players = players;
+    this.playersById = {};
 
     this.board = {};
     this.buildBoard();
@@ -18,7 +19,7 @@ Leaderboard.prototype.buildBoard = function () {
 
     var leagueIndex;
     var k, addedPlayers = 0;
-    var capacity, divisionsCount
+    var capacity, divisionsCount;
     for (leagueIndex = 0; leagueIndex < this.config.leagues.length; leagueIndex++) {
         if (leagueIndex != this.config.leagues.length - 1) {
             capacity = this.config.leagues[leagueIndex].capacity;
@@ -43,20 +44,28 @@ Leaderboard.prototype.buildBoard = function () {
 
         addedPlayers = addedPlayers + k;
     };
-
+    this.playersById = this.players.reduce(function (total, current) {
+        total[current.id] = current;
+        return total;
+    }, {});
 };
 
-Leaderboard.prototype.get = function() {
-    // return this.players;
-    return JSON.stringify(this.board);
+Leaderboard.prototype.get = function () {
+    return this.playersById;
+    // return JSON.stringify(this.board);
 };
 
-Leaderboard.prototype.handlePlayerUpdate = function (first_argument) {
-    // body...
+Leaderboard.prototype.handlePlayerUpdate = function (id, rating, points) {
+    var player = this.getPlayer(id);
+    player.rating += rating;
+    player.points += points;
 };
 
-Leaderboard.prototype.getPlayerRank = function (playerId) {
-    // body...
+Leaderboard.prototype.getPlayer = function (id) {
+    var l = this.playersById[id].league;
+    var d = this.playersById[id].division;
+
+    var player = this.board.leagues[l].divisions[d].getPlayer(id);
 };
 
 Leaderboard.prototype.getDivisionStanding = function (league, division) {

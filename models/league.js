@@ -1,7 +1,7 @@
 var Division = require('./division')
 
-var League = function (rank, capacity, divisionsCount) {
-    this.rank = rank;
+var League = function (id, capacity, divisionsCount) {
+    this.id = id;
     this.capacity = capacity;
     this.count = 0;
 

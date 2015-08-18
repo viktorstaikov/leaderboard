@@ -16,6 +16,6 @@
     "url": "https://github.com/viktorstaikov/leaderboard/issues"
   },
   "dependencies": {
-    "collections": "~1.2.3"
+    "node-uuid": "~1.4.3"
   }
 }
