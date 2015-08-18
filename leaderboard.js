@@ -1,7 +1,7 @@
 var League = require('./models/league');
 
 var Leaderboard = function (config, players) {
-    this.info = this._adjustSettings(config);
+    this.config = config;
 
     this.players = players;
 
@@ -11,7 +11,7 @@ var Leaderboard = function (config, players) {
 
 Leaderboard.prototype.buildBoard = function () {
     this.players = this.players.sort(function (a, b) {
-        return Object.compare(b.rating, a.rating);
+        return b.rating - a.rating;
     });
 
     this.board.leagues = [];
@@ -19,10 +19,13 @@ Leaderboard.prototype.buildBoard = function () {
     var leagueIndex;
     var k, addedPlayers = 0;
     var capacity, divisionsCount
-    for (leagueIndex = 0; leagueIndex < this.info.leagues.length; leagueIndex++) {
-        if (leagueIndex != this.info.leagues.length - 1) {
-            capacity = this.info.leagues[leagueIndex].capacity;
-            divisionsCount = Math.round(capacity / this.info.divisions.size);
+    for (leagueIndex = 0; leagueIndex < this.config.leagues.length; leagueIndex++) {
+        if (leagueIndex != this.config.leagues.length - 1) {
+            capacity = this.config.leagues[leagueIndex].capacity;
+            if (0 < capacity && capacity < 1) {
+                capacity = Math.round(capacity * this.players.length);
+            }
+            divisionsCount = Math.round(capacity / this.config.divisions.size);
 
             this.board.leagues.push(new League(leagueIndex, capacity, divisionsCount));
             for (k = 0; k < capacity; k++) {
@@ -30,7 +33,7 @@ Leaderboard.prototype.buildBoard = function () {
             }
         } else {
             capacity = Infinity;
-            divisionsCount = Math.round((this.players.length - addedPlayers) / this.info.divisions.size);
+            divisionsCount = Math.round((this.players.length - addedPlayers) / this.config.divisions.size);
             this.board.leagues.push(new League(leagueIndex, capacity, divisionsCount));
 
             for (k = addedPlayers; k < this.players.length; k++) {
@@ -41,25 +44,6 @@ Leaderboard.prototype.buildBoard = function () {
         addedPlayers = addedPlayers + k;
     };
 
-};
-
-Leaderboard.prototype._adjustSettings = function (config) {
-    //more fine checks and adjustments should be made here
-    var opt = {};
-    var defaultConfig = {
-        leagues: {
-            count: 8,
-            population: .125
-        },
-        divisions: {
-            size: 50
-        }
-    }
-
-    if (config == null || config.leagues == null || config.divisions == null) {
-        return defaultConfig;
-    }
-    return config;
 };
 
 Leaderboard.prototype.get = function() {
@@ -75,12 +59,12 @@ Leaderboard.prototype.getPlayerRank = function (playerId) {
     // body...
 };
 
-Leaderboard.prototype.getDivisionStanding = function (first_argument) {
-    // body...
+Leaderboard.prototype.getDivisionStanding = function (league, division) {
+    return this.board.leagues[league].divisions[division].getStanding();
 };
 
 Leaderboard.prototype.addPlayer = function (player) {
-    this.board.leagues[this.info.leagues.length - 1].addPlayer(player);
+    this.board.leagues[this.config.leagues.length - 1].addPlayer(player);
 };
 
 module.exports = Leaderboard;

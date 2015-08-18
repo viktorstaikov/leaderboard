@@ -1,12 +1,12 @@
 module.exports = {
     leagues: [{
-        capacity: 60
+        capacity: 50
     }, {
-        capacity: 120
+        capacity: .15
     }, {
-        capacity: 180
+        capacity: .20
     }, {
-        capacity: 240
+        capacity: .25
     }, {
         capacity: 0
     }],
