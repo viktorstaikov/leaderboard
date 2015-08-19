@@ -11,6 +11,6 @@ module.exports = {
         capacity: 0
     }],
     divisions: {
-        size: 60
+        size: 50
     }
 }

@@ -4,7 +4,7 @@
   "description": "leaderboard module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "node-uuid": "~1.4.3"
+  },
+  "devDependencies": {
+    "jasmine": "~2.3.2",
+    "randgen": "~0.1.0"
   }
 }
